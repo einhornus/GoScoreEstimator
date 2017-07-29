@@ -1,0 +1,15 @@
+C:\Users\lukianov\Downloads\Territory\Territory\GoTests\obj\Debug\GoTests.csprojResolveAssemblyReference.cache
+C:\Users\lukianov\Downloads\Territory\Territory\GoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lukianov\Downloads\Territory\Territory\GoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lukianov\Downloads\Territory\Territory\GoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lukianov\Downloads\Territory\Territory\GoTests\bin\Debug\GoTests.dll
+C:\Users\lukianov\Downloads\Territory\Territory\GoTests\bin\Debug\GoTests.pdb
+C:\Users\lukianov\Downloads\Territory\Territory\GoTests\bin\Debug\DataCreator.exe
+C:\Users\lukianov\Downloads\Territory\Territory\GoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lukianov\Downloads\Territory\Territory\GoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lukianov\Downloads\Territory\Territory\GoTests\bin\Debug\DataCreator.pdb
+C:\Users\lukianov\Downloads\Territory\Territory\GoTests\bin\Debug\DataCreator.exe.config
+C:\Users\lukianov\Downloads\Territory\Territory\GoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\lukianov\Downloads\Territory\Territory\GoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\lukianov\Downloads\Territory\Territory\GoTests\obj\Debug\GoTests.dll
+C:\Users\lukianov\Downloads\Territory\Territory\GoTests\obj\Debug\GoTests.pdb

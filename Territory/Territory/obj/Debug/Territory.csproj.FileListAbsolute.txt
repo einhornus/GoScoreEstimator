@@ -1,0 +1,81 @@
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\bin\Debug\Accord.dll.config
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\bin\Debug\Territory.exe.config
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\bin\Debug\Territory.exe
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\bin\Debug\Territory.pdb
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\bin\Debug\Accord.dll
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\bin\Debug\Accord.Math.Core.dll
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\bin\Debug\Accord.Math.dll
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\bin\Debug\Accord.Neuro.dll
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\bin\Debug\DataCreator.exe
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\bin\Debug\DataCreator.pdb
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\bin\Debug\DataCreator.exe.config
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\bin\Debug\Accord.xml
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\bin\Debug\Accord.Math.xml
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\bin\Debug\Accord.Math.Core.xml
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\bin\Debug\Accord.Neuro.xml
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\obj\Debug\Territory.csprojResolveAssemblyReference.cache
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\obj\Debug\Territory.exe
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\obj\Debug\Territory.pdb
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\bin\Debug\Accord.Extensions.Core.dll
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\bin\Debug\Accord.Extensions.Math.dll
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\bin\Debug\Accord.Extensions.Statistics.dll
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\bin\Debug\Accord.Statistics.dll
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\bin\Debug\DotImaging.Primitives2D.dll
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\bin\Debug\Accord.Extensions.Core.xml
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\bin\Debug\Accord.Extensions.Math.xml
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\bin\Debug\Accord.Extensions.Statistics.xml
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\Territory\bin\Debug\Accord.Statistics.xml
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\bin\Debug\Accord.dll.config
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\bin\Debug\Territory.exe.config
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\bin\Debug\Territory.exe
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\bin\Debug\Territory.pdb
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\bin\Debug\Accord.dll
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Extensions.Core.dll
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Extensions.Math.dll
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Extensions.Statistics.dll
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Math.Core.dll
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Math.dll
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Neuro.dll
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Statistics.dll
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\bin\Debug\DataCreator.exe
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\bin\Debug\DotImaging.Primitives2D.dll
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\bin\Debug\DataCreator.pdb
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\bin\Debug\DataCreator.exe.config
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\bin\Debug\Accord.xml
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Extensions.Core.xml
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Extensions.Math.xml
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Extensions.Statistics.xml
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Math.xml
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Math.Core.xml
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Neuro.xml
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Statistics.xml
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\obj\Debug\Territory.csprojResolveAssemblyReference.cache
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\obj\Debug\Territory.exe
+C:\Users\Einhorn\Downloads\Territory\Territory\Territory\obj\Debug\Territory.pdb
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\bin\Debug\Accord.dll.config
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\bin\Debug\Territory.exe.config
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\bin\Debug\Territory.exe
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\bin\Debug\Territory.pdb
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\bin\Debug\Accord.dll
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Extensions.Core.dll
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Extensions.Math.dll
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Extensions.Statistics.dll
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Math.Core.dll
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Math.dll
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Neuro.dll
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Statistics.dll
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\bin\Debug\DataCreator.exe
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\bin\Debug\DotImaging.Primitives2D.dll
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\bin\Debug\DataCreator.pdb
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\bin\Debug\DataCreator.exe.config
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\bin\Debug\Accord.xml
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Extensions.Core.xml
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Extensions.Math.xml
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Extensions.Statistics.xml
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Math.xml
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Math.Core.xml
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Neuro.xml
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\bin\Debug\Accord.Statistics.xml
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\obj\Debug\Territory.csprojResolveAssemblyReference.cache
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\obj\Debug\Territory.exe
+C:\Users\lukianov\Downloads\Territory\Territory\Territory\obj\Debug\Territory.pdb

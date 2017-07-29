@@ -1,0 +1,3255 @@
+(;FF[4]AP[WebGoBoard:0.10.8]BR[7k]C[roddink: hi gg
+]CA[UTF-8]CP[online-go.com]
+DT[2017-04-05]GM[1]HA[0]KM[6.5]PB[einhorn]
+PC[OGS: http://online-go.com/game/8283626]PW[roddink]RE[B+R]RU[japanese]ST[0]
+SZ[19]WR[8k](;B[qd]
+C[Move 1
+Black to play, in the game, black played r16
+Gnugo score estimation before the move was played: W+6.5]
+(;
+C[einhorn: hi gg
+
+
+Move 2
+White to play, in the game, white played d4
+Gnugo score estimation before the move was played: B+8.2]
+W[dp](;B[po]
+C[Move 3
+Black to play, in the game, black played q5
+Gnugo score estimation before the move was played: W+1.7]
+(;
+C[Move 4
+White to play, in the game, white played d17
+Gnugo score estimation before the move was played: B+7.5]
+W[dc](;B[oc]
+C[Move 5
+Black to play, in the game, black played p17
+Gnugo score estimation before the move was played: W+7.1
+Leela black/white win probability for this position: 50.87%/49.13%]
+(;
+C[Move 6
+White to play, in the game, white played q3
+Gnugo score estimation before the move was played: B+6.8
+Leela black/white win probability for this position: 48.27%/51.73%]
+W[pq](;B[np]
+C[Move 7
+Black to play, in the game, black played o4
+Gnugo score estimation before the move was played: W+2.2
+Leela black/white win probability for this position: 48.74%/51.26%]
+(;
+C[Move 8
+White to play, in the game, white played r5
+Gnugo score estimation before the move was played: B+6.8
+Leela black/white win probability for this position: 48.63%/51.37%]
+W[qo](;B[pn]
+C[Move 9
+Black to play, in the game, black played q6
+Gnugo score estimation before the move was played: W+10.0
+Leela black/white win probability for this position: 50.9%/49.1%]
+(;
+C[Move 10
+White to play, in the game, white played r6
+Gnugo score estimation before the move was played: W+1.8
+Leela black/white win probability for this position: 47.84%/52.16%]
+W[qn](;B[qp]
+C[Move 11
+Black to play, in the game, black played r4
+Gnugo score estimation before the move was played: W+11.1
+Leela black/white win probability for this position: 47.88%/52.12%]
+(;
+C[Move 12
+White to play, in the game, white played q4
+Gnugo score estimation before the move was played: B+10.2
+Leela black/white win probability for this position: 45.47%/54.53%]
+W[pp](;B[rp]
+C[Move 13
+Black to play, in the game, black played s4
+Gnugo score estimation before the move was played: W+5.6
+Leela black/white win probability for this position: 46.74%/53.26%]
+(;
+C[Move 14
+White to play, in the game, white played q7
+Gnugo score estimation before the move was played: B+4.3
+Leela black/white win probability for this position: 42.61%/57.39%]
+W[pm](;B[qm]
+C[Move 15
+Black to play, in the game, black played r7
+Gnugo score estimation before the move was played: W+2.4
+Leela black/white win probability for this position: 51.85%/48.15%]
+(;
+C[Move 16
+White to play, in the game, white played s7
+Gnugo score estimation before the move was played: B+22.4
+Leela black/white win probability for this position: 51.83%/48.17%]
+W[rm](;B[ql]
+C[Move 17
+Black to play, in the game, black played r8
+Gnugo score estimation before the move was played: W+4.7
+Leela black/white win probability for this position: 55.62%/44.38%]
+(;
+C[Move 18
+White to play, in the game, white played s8
+Gnugo score estimation before the move was played: B+31.9
+Leela black/white win probability for this position: 58.99%/41.01%]
+W[rl](;B[rn]
+C[Move 19
+Black to play, in the game, black played s6
+Gnugo score estimation before the move was played: B+0.9
+Leela black/white win probability for this position: 67.53%/32.47%]
+(;
+C[Move 20
+White to play, in the game, white played s2
+Gnugo score estimation before the move was played: B+24.9
+Leela black/white win probability for this position: 67.86%/32.14%]
+W[rr](;B[nr]
+C[Move 21
+Black to play, in the game, black played o2
+Gnugo score estimation before the move was played: B+8.9
+Leela black/white win probability for this position: 71.02%/28.98%]
+(;
+C[Move 22
+White to play, in the game, white played k3
+Gnugo score estimation before the move was played: B+28.0
+Leela black/white win probability for this position: 70.69%/29.31%]
+W[jq](;B[op]
+C[Move 23
+Black to play, in the game, black played p4
+Gnugo score estimation before the move was played: B+16.5
+Leela black/white win probability for this position: 71.26%/28.74%]
+(;
+C[Move 24
+White to play, in the game, white played r15
+Gnugo score estimation before the move was played: B+28.0
+Leela black/white win probability for this position: 68.27%/31.73%]
+W[qe](;B[rd]
+C[Move 25
+Black to play, in the game, black played s16
+Gnugo score estimation before the move was played: B+11.9
+Leela black/white win probability for this position: 71.61%/28.39%]
+(;
+C[Move 26
+White to play, in the game, white played q16
+Gnugo score estimation before the move was played: B+16.6
+Leela black/white win probability for this position: 72.08%/27.92%]
+W[pd](;B[pc]
+C[Move 27
+Black to play, in the game, black played q17
+Gnugo score estimation before the move was played: B+11.0
+Leela black/white win probability for this position: 67.95%/32.05%]
+(;
+C[Move 28
+White to play, in the game, white played q15
+Gnugo score estimation before the move was played: B+14.7
+Leela black/white win probability for this position: 70.27%/29.73%]
+W[pe](;B[qk]
+C[Move 29
+Black to play, in the game, black played r9
+Gnugo score estimation before the move was played: B+13.2
+Leela black/white win probability for this position: 72.23%/27.77%]
+;W[ri];B[rk];W[re];B[de];W[ce];B[cf];W[cd];B[dg];W[cj];B[fd];W[fc];B[gc];W[ed];
+B[fe];W[ef];B[ee];W[df];B[eg];W[on];B[oo];W[ff];B[gf];W[fg];B[fh];W[gg];B[hg];
+W[gh];B[gi];W[hh];B[ih];W[hi];B[hj];W[ii];B[ji];W[ij];B[ik];W[jj];B[kj];W[jk];
+B[jl];W[kk];B[lk];W[kl];B[km];W[ll];B[ml];W[lm];B[ln];W[mm];B[nm];W[mn];B[mo];
+W[nn];B[om]C[einhorn: tnx
+])(;B[qk]
+C[black/white win probability for this variation: 72.23%/27.77%
+Number of playouts used to estimate this variation: 129014]
+;
+C[black/white win probability for this variation: 72.23%/27.77%
+Number of playouts used to estimate this variation: 129014]
+W[nd];B[re]
+C[black/white win probability for this variation: 72.23%/27.77%
+Number of playouts used to estimate this variation: 129014]
+;
+C[black/white win probability for this variation: 72.23%/27.77%
+Number of playouts used to estimate this variation: 129014]
+W[mf];B[mc]
+C[black/white win probability for this variation: 72.23%/27.77%
+Number of playouts used to estimate this variation: 129014]
+;
+C[black/white win probability for this variation: 72.23%/27.77%
+Number of playouts used to estimate this variation: 129014]
+W[qg];B[rf]
+C[black/white win probability for this variation: 72.23%/27.77%
+Number of playouts used to estimate this variation: 129014]
+)(;B[re]
+C[black/white win probability for this variation: 68.06%/31.94%
+Number of playouts used to estimate this variation: 1977]
+;
+C[black/white win probability for this variation: 68.06%/31.94%
+Number of playouts used to estimate this variation: 1977]
+W[qk];B[pl]
+C[black/white win probability for this variation: 68.06%/31.94%
+Number of playouts used to estimate this variation: 1977]
+;
+C[black/white win probability for this variation: 68.06%/31.94%
+Number of playouts used to estimate this variation: 1977]
+W[pk];B[ol]
+C[black/white win probability for this variation: 68.06%/31.94%
+Number of playouts used to estimate this variation: 1977]
+;
+C[black/white win probability for this variation: 68.06%/31.94%
+Number of playouts used to estimate this variation: 1977]
+W[ok];B[nl]
+C[black/white win probability for this variation: 68.06%/31.94%
+Number of playouts used to estimate this variation: 1977]
+;
+C[black/white win probability for this variation: 68.06%/31.94%
+Number of playouts used to estimate this variation: 1977]
+W[qg];B[hq]
+C[black/white win probability for this variation: 68.06%/31.94%
+Number of playouts used to estimate this variation: 1977]
+;
+C[black/white win probability for this variation: 68.06%/31.94%
+Number of playouts used to estimate this variation: 1977]
+W[rf])(;B[fq]
+C[black/white win probability for this variation: 71.04%/28.96%
+Number of playouts used to estimate this variation: 1635]
+;
+C[black/white win probability for this variation: 71.04%/28.96%
+Number of playouts used to estimate this variation: 1635]
+W[qk];B[pl]
+C[black/white win probability for this variation: 71.04%/28.96%
+Number of playouts used to estimate this variation: 1635]
+;
+C[black/white win probability for this variation: 71.04%/28.96%
+Number of playouts used to estimate this variation: 1635]
+W[pk];B[ol]
+C[black/white win probability for this variation: 71.04%/28.96%
+Number of playouts used to estimate this variation: 1635]
+;
+C[black/white win probability for this variation: 71.04%/28.96%
+Number of playouts used to estimate this variation: 1635]
+W[ok];B[nl]
+C[black/white win probability for this variation: 71.04%/28.96%
+Number of playouts used to estimate this variation: 1635]
+;
+C[black/white win probability for this variation: 71.04%/28.96%
+Number of playouts used to estimate this variation: 1635]
+W[nk];B[mk]
+C[black/white win probability for this variation: 71.04%/28.96%
+Number of playouts used to estimate this variation: 1635]
+;
+C[black/white win probability for this variation: 71.04%/28.96%
+Number of playouts used to estimate this variation: 1635]
+W[mj])(;B[ne]
+C[black/white win probability for this variation: 68.44%/31.56%
+Number of playouts used to estimate this variation: 1574]
+;
+C[black/white win probability for this variation: 68.44%/31.56%
+Number of playouts used to estimate this variation: 1574]
+W[qk];B[pl]
+C[black/white win probability for this variation: 68.44%/31.56%
+Number of playouts used to estimate this variation: 1574]
+;
+C[black/white win probability for this variation: 68.44%/31.56%
+Number of playouts used to estimate this variation: 1574]
+W[pk];B[ol]
+C[black/white win probability for this variation: 68.44%/31.56%
+Number of playouts used to estimate this variation: 1574]
+;
+C[black/white win probability for this variation: 68.44%/31.56%
+Number of playouts used to estimate this variation: 1574]
+W[ok];B[nl]
+C[black/white win probability for this variation: 68.44%/31.56%
+Number of playouts used to estimate this variation: 1574]
+;
+C[black/white win probability for this variation: 68.44%/31.56%
+Number of playouts used to estimate this variation: 1574]
+W[re];B[se]
+C[black/white win probability for this variation: 68.44%/31.56%
+Number of playouts used to estimate this variation: 1574]
+)(;B[de]
+C[black/white win probability for this variation: 72.23%/27.77%
+Number of playouts used to estimate this variation: 1226]
+;
+C[black/white win probability for this variation: 72.23%/27.77%
+Number of playouts used to estimate this variation: 1226]
+W[qk];B[pl]
+C[black/white win probability for this variation: 72.23%/27.77%
+Number of playouts used to estimate this variation: 1226]
+;
+C[black/white win probability for this variation: 72.23%/27.77%
+Number of playouts used to estimate this variation: 1226]
+W[pk];B[ol]
+C[black/white win probability for this variation: 72.23%/27.77%
+Number of playouts used to estimate this variation: 1226]
+;
+C[black/white win probability for this variation: 72.23%/27.77%
+Number of playouts used to estimate this variation: 1226]
+W[ok];B[nl]
+C[black/white win probability for this variation: 72.23%/27.77%
+Number of playouts used to estimate this variation: 1226]
+;
+C[black/white win probability for this variation: 72.23%/27.77%
+Number of playouts used to estimate this variation: 1226]
+W[re];B[se]
+C[black/white win probability for this variation: 72.23%/27.77%
+Number of playouts used to estimate this variation: 1226]
+)(;B[ce]
+C[black/white win probability for this variation: 71.2%/28.8%
+Number of playouts used to estimate this variation: 1143]
+;
+C[black/white win probability for this variation: 71.2%/28.8%
+Number of playouts used to estimate this variation: 1143]
+W[qk];B[pl]
+C[black/white win probability for this variation: 71.2%/28.8%
+Number of playouts used to estimate this variation: 1143]
+;
+C[black/white win probability for this variation: 71.2%/28.8%
+Number of playouts used to estimate this variation: 1143]
+W[pk];B[ol]
+C[black/white win probability for this variation: 71.2%/28.8%
+Number of playouts used to estimate this variation: 1143]
+;
+C[black/white win probability for this variation: 71.2%/28.8%
+Number of playouts used to estimate this variation: 1143]
+W[ok];B[nl]
+C[black/white win probability for this variation: 71.2%/28.8%
+Number of playouts used to estimate this variation: 1143]
+;
+C[black/white win probability for this variation: 71.2%/28.8%
+Number of playouts used to estimate this variation: 1143]
+W[re];B[qg]
+C[black/white win probability for this variation: 71.2%/28.8%
+Number of playouts used to estimate this variation: 1143]
+))(;
+C[black/white win probability for this variation: 70.27%/29.73%
+Number of playouts used to estimate this variation: 15]
+W[qk];B[pl]
+C[black/white win probability for this variation: 70.27%/29.73%
+Number of playouts used to estimate this variation: 15]
+))(;B[pe]
+C[black/white win probability for this variation: 67.95%/32.05%
+Number of playouts used to estimate this variation: 7]
+;
+C[black/white win probability for this variation: 67.95%/32.05%
+Number of playouts used to estimate this variation: 7]
+W[qk];B[pl]
+C[black/white win probability for this variation: 67.95%/32.05%
+Number of playouts used to estimate this variation: 7]
+;
+C[black/white win probability for this variation: 67.95%/32.05%
+Number of playouts used to estimate this variation: 7]
+W[pk];B[ol]
+C[black/white win probability for this variation: 67.95%/32.05%
+Number of playouts used to estimate this variation: 7]
+;
+C[black/white win probability for this variation: 67.95%/32.05%
+Number of playouts used to estimate this variation: 7]
+W[ok];B[nl]
+C[black/white win probability for this variation: 67.95%/32.05%
+Number of playouts used to estimate this variation: 7]
+;
+C[black/white win probability for this variation: 67.95%/32.05%
+Number of playouts used to estimate this variation: 7]
+W[qg];B[od]
+C[black/white win probability for this variation: 67.95%/32.05%
+Number of playouts used to estimate this variation: 7]
+;
+C[black/white win probability for this variation: 67.95%/32.05%
+Number of playouts used to estimate this variation: 7]
+W[pf];B[oe]
+C[black/white win probability for this variation: 67.95%/32.05%
+Number of playouts used to estimate this variation: 7]
+;
+C[black/white win probability for this variation: 67.95%/32.05%
+Number of playouts used to estimate this variation: 7]
+W[cn];B[hq]
+C[black/white win probability for this variation: 67.95%/32.05%
+Number of playouts used to estimate this variation: 7]
+;
+C[black/white win probability for this variation: 67.95%/32.05%
+Number of playouts used to estimate this variation: 7]
+W[jo];B[ho]
+C[black/white win probability for this variation: 67.95%/32.05%
+Number of playouts used to estimate this variation: 7]
+;
+C[black/white win probability for this variation: 67.95%/32.05%
+Number of playouts used to estimate this variation: 7]
+W[jm];B[hm]
+C[black/white win probability for this variation: 67.95%/32.05%
+Number of playouts used to estimate this variation: 7]
+;
+C[black/white win probability for this variation: 67.95%/32.05%
+Number of playouts used to estimate this variation: 7]
+W[jk];B[hk]
+C[black/white win probability for this variation: 67.95%/32.05%
+Number of playouts used to estimate this variation: 7]
+;
+C[black/white win probability for this variation: 67.95%/32.05%
+Number of playouts used to estimate this variation: 7]
+W[ji];B[hi]
+C[black/white win probability for this variation: 67.95%/32.05%
+Number of playouts used to estimate this variation: 7]
+)(;B[pc]
+C[black/white win probability for this variation: 63.74%/36.26%
+Number of playouts used to estimate this variation: 7]
+))(;
+C[black/white win probability for this variation: 72.08%/27.92%
+Number of playouts used to estimate this variation: 40]
+W[qk];B[pl]
+C[black/white win probability for this variation: 72.08%/27.92%
+Number of playouts used to estimate this variation: 40]
+))(;B[qk]
+C[black/white win probability for this variation: 71.61%/28.39%
+Number of playouts used to estimate this variation: 28866]
+;
+C[black/white win probability for this variation: 71.61%/28.39%
+Number of playouts used to estimate this variation: 28866]
+W[rd];B[qc]
+C[black/white win probability for this variation: 71.61%/28.39%
+Number of playouts used to estimate this variation: 28866]
+;
+C[black/white win probability for this variation: 71.61%/28.39%
+Number of playouts used to estimate this variation: 28866]
+W[pe];B[qh]
+C[black/white win probability for this variation: 71.61%/28.39%
+Number of playouts used to estimate this variation: 28866]
+;
+C[black/white win probability for this variation: 71.61%/28.39%
+Number of playouts used to estimate this variation: 28866]
+W[rc];B[rb]
+C[black/white win probability for this variation: 71.61%/28.39%
+Number of playouts used to estimate this variation: 28866]
+;
+C[black/white win probability for this variation: 71.61%/28.39%
+Number of playouts used to estimate this variation: 28866]
+W[od];B[nd]
+C[black/white win probability for this variation: 71.61%/28.39%
+Number of playouts used to estimate this variation: 28866]
+)(;B[pe]
+C[black/white win probability for this variation: 68.38%/31.62%
+Number of playouts used to estimate this variation: 44474]
+;
+C[black/white win probability for this variation: 68.38%/31.62%
+Number of playouts used to estimate this variation: 44474]
+W[qf];B[rd]
+C[black/white win probability for this variation: 68.38%/31.62%
+Number of playouts used to estimate this variation: 44474]
+;
+C[black/white win probability for this variation: 68.38%/31.62%
+Number of playouts used to estimate this variation: 44474]
+W[qk];B[pl]
+C[black/white win probability for this variation: 68.38%/31.62%
+Number of playouts used to estimate this variation: 44474]
+;
+C[black/white win probability for this variation: 68.38%/31.62%
+Number of playouts used to estimate this variation: 44474]
+W[pk];B[ol]
+C[black/white win probability for this variation: 68.38%/31.62%
+Number of playouts used to estimate this variation: 44474]
+;
+C[black/white win probability for this variation: 68.38%/31.62%
+Number of playouts used to estimate this variation: 44474]
+W[ok];B[nl]
+C[black/white win probability for this variation: 68.38%/31.62%
+Number of playouts used to estimate this variation: 44474]
+;
+C[black/white win probability for this variation: 68.38%/31.62%
+Number of playouts used to estimate this variation: 44474]
+W[pf];B[oe]
+C[black/white win probability for this variation: 68.38%/31.62%
+Number of playouts used to estimate this variation: 44474]
+;
+C[black/white win probability for this variation: 68.38%/31.62%
+Number of playouts used to estimate this variation: 44474]
+W[of];B[fq]
+C[black/white win probability for this variation: 68.38%/31.62%
+Number of playouts used to estimate this variation: 44474]
+;
+C[black/white win probability for this variation: 68.38%/31.62%
+Number of playouts used to estimate this variation: 44474]
+W[mq];B[mr]
+C[black/white win probability for this variation: 68.38%/31.62%
+Number of playouts used to estimate this variation: 44474]
+;
+C[black/white win probability for this variation: 68.38%/31.62%
+Number of playouts used to estimate this variation: 44474]
+W[dn];B[eo]
+C[black/white win probability for this variation: 68.38%/31.62%
+Number of playouts used to estimate this variation: 44474]
+)(;B[qg]
+C[black/white win probability for this variation: 70.12%/29.88%
+Number of playouts used to estimate this variation: 4585]
+;
+C[black/white win probability for this variation: 70.12%/29.88%
+Number of playouts used to estimate this variation: 4585]
+W[qk];B[pl]
+C[black/white win probability for this variation: 70.12%/29.88%
+Number of playouts used to estimate this variation: 4585]
+;
+C[black/white win probability for this variation: 70.12%/29.88%
+Number of playouts used to estimate this variation: 4585]
+W[pk];B[ol]
+C[black/white win probability for this variation: 70.12%/29.88%
+Number of playouts used to estimate this variation: 4585]
+;
+C[black/white win probability for this variation: 70.12%/29.88%
+Number of playouts used to estimate this variation: 4585]
+W[ok];B[nl]
+C[black/white win probability for this variation: 70.12%/29.88%
+Number of playouts used to estimate this variation: 4585]
+;
+C[black/white win probability for this variation: 70.12%/29.88%
+Number of playouts used to estimate this variation: 4585]
+W[pd];B[pc]
+C[black/white win probability for this variation: 70.12%/29.88%
+Number of playouts used to estimate this variation: 4585]
+;
+C[black/white win probability for this variation: 70.12%/29.88%
+Number of playouts used to estimate this variation: 4585]
+W[qf];B[pg]
+C[black/white win probability for this variation: 70.12%/29.88%
+Number of playouts used to estimate this variation: 4585]
+;
+C[black/white win probability for this variation: 70.12%/29.88%
+Number of playouts used to estimate this variation: 4585]
+W[pf])(;B[pd]
+C[black/white win probability for this variation: 67.79%/32.21%
+Number of playouts used to estimate this variation: 3995]
+;
+C[black/white win probability for this variation: 67.79%/32.21%
+Number of playouts used to estimate this variation: 3995]
+W[qk];B[pl]
+C[black/white win probability for this variation: 67.79%/32.21%
+Number of playouts used to estimate this variation: 3995]
+;
+C[black/white win probability for this variation: 67.79%/32.21%
+Number of playouts used to estimate this variation: 3995]
+W[pk];B[ol]
+C[black/white win probability for this variation: 67.79%/32.21%
+Number of playouts used to estimate this variation: 3995]
+;
+C[black/white win probability for this variation: 67.79%/32.21%
+Number of playouts used to estimate this variation: 3995]
+W[ok];B[nl]
+C[black/white win probability for this variation: 67.79%/32.21%
+Number of playouts used to estimate this variation: 3995]
+;
+C[black/white win probability for this variation: 67.79%/32.21%
+Number of playouts used to estimate this variation: 3995]
+W[qg];B[fq]
+C[black/white win probability for this variation: 67.79%/32.21%
+Number of playouts used to estimate this variation: 3995]
+;
+C[black/white win probability for this variation: 67.79%/32.21%
+Number of playouts used to estimate this variation: 3995]
+W[dn];B[ip]
+C[black/white win probability for this variation: 67.79%/32.21%
+Number of playouts used to estimate this variation: 3995]
+;
+C[black/white win probability for this variation: 67.79%/32.21%
+Number of playouts used to estimate this variation: 3995]
+W[iq])(;B[re]
+C[black/white win probability for this variation: 70.44%/29.56%
+Number of playouts used to estimate this variation: 452]
+;
+C[black/white win probability for this variation: 70.44%/29.56%
+Number of playouts used to estimate this variation: 452]
+W[qf];B[rf]
+C[black/white win probability for this variation: 70.44%/29.56%
+Number of playouts used to estimate this variation: 452]
+)(;B[rd]
+C[black/white win probability for this variation: 69.39%/30.61%
+Number of playouts used to estimate this variation: 119]
+;
+C[black/white win probability for this variation: 69.39%/30.61%
+Number of playouts used to estimate this variation: 119]
+W[qk];B[pl]
+C[black/white win probability for this variation: 69.39%/30.61%
+Number of playouts used to estimate this variation: 119]
+))(;
+C[black/white win probability for this variation: 68.27%/31.73%
+Number of playouts used to estimate this variation: 2430]
+W[qk];B[pl]
+C[black/white win probability for this variation: 68.27%/31.73%
+Number of playouts used to estimate this variation: 2430]
+;
+C[black/white win probability for this variation: 68.27%/31.73%
+Number of playouts used to estimate this variation: 2430]
+W[pk];B[ol]
+C[black/white win probability for this variation: 68.27%/31.73%
+Number of playouts used to estimate this variation: 2430]
+;
+C[black/white win probability for this variation: 68.27%/31.73%
+Number of playouts used to estimate this variation: 2430]
+W[ok];B[nl]
+C[black/white win probability for this variation: 68.27%/31.73%
+Number of playouts used to estimate this variation: 2430]
+;
+C[black/white win probability for this variation: 68.27%/31.73%
+Number of playouts used to estimate this variation: 2430]
+W[qg];B[fq]
+C[black/white win probability for this variation: 68.27%/31.73%
+Number of playouts used to estimate this variation: 2430]
+;
+C[black/white win probability for this variation: 68.27%/31.73%
+Number of playouts used to estimate this variation: 2430]
+W[dn])(;
+C[black/white win probability for this variation: 46.42%/53.58%
+Number of playouts used to estimate this variation: 44]
+W[cn];B[qk]
+C[black/white win probability for this variation: 46.42%/53.58%
+Number of playouts used to estimate this variation: 44]
+)(;
+C[black/white win probability for this variation: 56.75%/43.25%
+Number of playouts used to estimate this variation: 30]
+W[fp])(;
+C[black/white win probability for this variation: 66.53%/33.47%
+Number of playouts used to estimate this variation: 25]
+W[ce])(;
+C[black/white win probability for this variation: 59.3%/40.7%
+Number of playouts used to estimate this variation: 16]
+W[ci])(;
+C[black/white win probability for this variation: 59.41%/40.59%
+Number of playouts used to estimate this variation: 8]
+W[or]))(;B[qk]
+C[black/white win probability for this variation: 71.26%/28.74%
+Number of playouts used to estimate this variation: 103566]
+;
+C[black/white win probability for this variation: 71.26%/28.74%
+Number of playouts used to estimate this variation: 103566]
+W[oo];B[ro]
+C[black/white win probability for this variation: 71.26%/28.74%
+Number of playouts used to estimate this variation: 103566]
+;
+C[black/white win probability for this variation: 71.26%/28.74%
+Number of playouts used to estimate this variation: 103566]
+W[op];B[mo]
+C[black/white win probability for this variation: 71.26%/28.74%
+Number of playouts used to estimate this variation: 103566]
+;
+C[black/white win probability for this variation: 71.26%/28.74%
+Number of playouts used to estimate this variation: 103566]
+W[mn];B[ln]
+C[black/white win probability for this variation: 71.26%/28.74%
+Number of playouts used to estimate this variation: 103566]
+;
+C[black/white win probability for this variation: 71.26%/28.74%
+Number of playouts used to estimate this variation: 103566]
+W[mm];B[ko]
+C[black/white win probability for this variation: 71.26%/28.74%
+Number of playouts used to estimate this variation: 103566]
+;
+C[black/white win probability for this variation: 71.26%/28.74%
+Number of playouts used to estimate this variation: 103566]
+W[lp];B[lo]
+C[black/white win probability for this variation: 71.26%/28.74%
+Number of playouts used to estimate this variation: 103566]
+;
+C[black/white win probability for this variation: 71.26%/28.74%
+Number of playouts used to estimate this variation: 103566]
+W[on];B[ip]
+C[black/white win probability for this variation: 71.26%/28.74%
+Number of playouts used to estimate this variation: 103566]
+;
+C[black/white win probability for this variation: 71.26%/28.74%
+Number of playouts used to estimate this variation: 103566]
+W[hq];B[lk]
+C[black/white win probability for this variation: 71.26%/28.74%
+Number of playouts used to estimate this variation: 103566]
+;
+C[black/white win probability for this variation: 71.26%/28.74%
+Number of playouts used to estimate this variation: 103566]
+W[km])(;B[ro]
+C[black/white win probability for this variation: 70.57%/29.43%
+Number of playouts used to estimate this variation: 6221]
+;
+C[black/white win probability for this variation: 70.57%/29.43%
+Number of playouts used to estimate this variation: 6221]
+W[qk];B[pl]
+C[black/white win probability for this variation: 70.57%/29.43%
+Number of playouts used to estimate this variation: 6221]
+;
+C[black/white win probability for this variation: 70.57%/29.43%
+Number of playouts used to estimate this variation: 6221]
+W[qh];B[fq]
+C[black/white win probability for this variation: 70.57%/29.43%
+Number of playouts used to estimate this variation: 6221]
+;
+C[black/white win probability for this variation: 70.57%/29.43%
+Number of playouts used to estimate this variation: 6221]
+W[mq];B[nq]
+C[black/white win probability for this variation: 70.57%/29.43%
+Number of playouts used to estimate this variation: 6221]
+;
+C[black/white win probability for this variation: 70.57%/29.43%
+Number of playouts used to estimate this variation: 6221]
+W[hq];B[ip]
+C[black/white win probability for this variation: 70.57%/29.43%
+Number of playouts used to estimate this variation: 6221]
+)(;B[no]
+C[black/white win probability for this variation: 69.81%/30.19%
+Number of playouts used to estimate this variation: 5473]
+;
+C[black/white win probability for this variation: 69.81%/30.19%
+Number of playouts used to estimate this variation: 5473]
+W[qk];B[pl]
+C[black/white win probability for this variation: 69.81%/30.19%
+Number of playouts used to estimate this variation: 5473]
+;
+C[black/white win probability for this variation: 69.81%/30.19%
+Number of playouts used to estimate this variation: 5473]
+W[pk];B[ol]
+C[black/white win probability for this variation: 69.81%/30.19%
+Number of playouts used to estimate this variation: 5473]
+;
+C[black/white win probability for this variation: 69.81%/30.19%
+Number of playouts used to estimate this variation: 5473]
+W[qh];B[hq]
+C[black/white win probability for this variation: 69.81%/30.19%
+Number of playouts used to estimate this variation: 5473]
+;
+C[black/white win probability for this variation: 69.81%/30.19%
+Number of playouts used to estimate this variation: 5473]
+W[io];B[ir]
+C[black/white win probability for this variation: 69.81%/30.19%
+Number of playouts used to estimate this variation: 5473]
+)(;B[ce]
+C[black/white win probability for this variation: 72.0%/28.0%
+Number of playouts used to estimate this variation: 4453]
+;
+C[black/white win probability for this variation: 72.0%/28.0%
+Number of playouts used to estimate this variation: 4453]
+W[oo];B[ro]
+C[black/white win probability for this variation: 72.0%/28.0%
+Number of playouts used to estimate this variation: 4453]
+;
+C[black/white win probability for this variation: 72.0%/28.0%
+Number of playouts used to estimate this variation: 4453]
+W[op];B[kp]
+C[black/white win probability for this variation: 72.0%/28.0%
+Number of playouts used to estimate this variation: 4453]
+;
+C[black/white win probability for this variation: 72.0%/28.0%
+Number of playouts used to estimate this variation: 4453]
+W[jp];B[ko]
+C[black/white win probability for this variation: 72.0%/28.0%
+Number of playouts used to estimate this variation: 4453]
+;
+C[black/white win probability for this variation: 72.0%/28.0%
+Number of playouts used to estimate this variation: 4453]
+W[jo])(;B[nn]
+C[black/white win probability for this variation: 68.99%/31.01%
+Number of playouts used to estimate this variation: 3195]
+;
+C[black/white win probability for this variation: 68.99%/31.01%
+Number of playouts used to estimate this variation: 3195]
+W[qk];B[pl]
+C[black/white win probability for this variation: 68.99%/31.01%
+Number of playouts used to estimate this variation: 3195]
+;
+C[black/white win probability for this variation: 68.99%/31.01%
+Number of playouts used to estimate this variation: 3195]
+W[pk];B[ol]
+C[black/white win probability for this variation: 68.99%/31.01%
+Number of playouts used to estimate this variation: 3195]
+;
+C[black/white win probability for this variation: 68.99%/31.01%
+Number of playouts used to estimate this variation: 3195]
+W[qg];B[fq]
+C[black/white win probability for this variation: 68.99%/31.01%
+Number of playouts used to estimate this variation: 3195]
+;
+C[black/white win probability for this variation: 68.99%/31.01%
+Number of playouts used to estimate this variation: 3195]
+W[dn];B[dq]
+C[black/white win probability for this variation: 68.99%/31.01%
+Number of playouts used to estimate this variation: 3195]
+)(;B[de]
+C[black/white win probability for this variation: 71.25%/28.75%
+Number of playouts used to estimate this variation: 2976]
+;
+C[black/white win probability for this variation: 71.25%/28.75%
+Number of playouts used to estimate this variation: 2976]
+W[oo];B[ro]
+C[black/white win probability for this variation: 71.25%/28.75%
+Number of playouts used to estimate this variation: 2976]
+;
+C[black/white win probability for this variation: 71.25%/28.75%
+Number of playouts used to estimate this variation: 2976]
+W[op];B[kp]
+C[black/white win probability for this variation: 71.25%/28.75%
+Number of playouts used to estimate this variation: 2976]
+;
+C[black/white win probability for this variation: 71.25%/28.75%
+Number of playouts used to estimate this variation: 2976]
+W[jp];B[ko]
+C[black/white win probability for this variation: 71.25%/28.75%
+Number of playouts used to estimate this variation: 2976]
+))(;
+C[black/white win probability for this variation: 70.69%/29.31%
+Number of playouts used to estimate this variation: 69975]
+W[oo];B[on]
+C[black/white win probability for this variation: 70.69%/29.31%
+Number of playouts used to estimate this variation: 69975]
+;
+C[black/white win probability for this variation: 70.69%/29.31%
+Number of playouts used to estimate this variation: 69975]
+W[qk];B[ro]
+C[black/white win probability for this variation: 70.69%/29.31%
+Number of playouts used to estimate this variation: 69975]
+;
+C[black/white win probability for this variation: 70.69%/29.31%
+Number of playouts used to estimate this variation: 69975]
+W[pl];B[qn]
+C[black/white win probability for this variation: 70.69%/29.31%
+Number of playouts used to estimate this variation: 69975]
+;
+C[black/white win probability for this variation: 70.69%/29.31%
+Number of playouts used to estimate this variation: 69975]
+W[qh];B[de]
+C[black/white win probability for this variation: 70.69%/29.31%
+Number of playouts used to estimate this variation: 69975]
+;
+C[black/white win probability for this variation: 70.69%/29.31%
+Number of playouts used to estimate this variation: 69975]
+W[ce];B[dd]
+C[black/white win probability for this variation: 70.69%/29.31%
+Number of playouts used to estimate this variation: 69975]
+;
+C[black/white win probability for this variation: 70.69%/29.31%
+Number of playouts used to estimate this variation: 69975]
+W[cd];B[ec]
+C[black/white win probability for this variation: 70.69%/29.31%
+Number of playouts used to estimate this variation: 69975]
+;
+C[black/white win probability for this variation: 70.69%/29.31%
+Number of playouts used to estimate this variation: 69975]
+W[cf];B[db]
+C[black/white win probability for this variation: 70.69%/29.31%
+Number of playouts used to estimate this variation: 69975]
+;
+C[black/white win probability for this variation: 70.69%/29.31%
+Number of playouts used to estimate this variation: 69975]
+W[cc];B[fd]
+C[black/white win probability for this variation: 70.69%/29.31%
+Number of playouts used to estimate this variation: 69975]
+;
+C[black/white win probability for this variation: 70.69%/29.31%
+Number of playouts used to estimate this variation: 69975]
+W[jc];B[lc]
+C[black/white win probability for this variation: 70.69%/29.31%
+Number of playouts used to estimate this variation: 69975]
+;
+C[black/white win probability for this variation: 70.69%/29.31%
+Number of playouts used to estimate this variation: 69975]
+W[gc];B[gd]
+C[black/white win probability for this variation: 70.69%/29.31%
+Number of playouts used to estimate this variation: 69975]
+)(;
+C[black/white win probability for this variation: 70.98%/29.02%
+Number of playouts used to estimate this variation: 54856]
+W[or];B[qk]
+C[black/white win probability for this variation: 70.98%/29.02%
+Number of playouts used to estimate this variation: 54856]
+;
+C[black/white win probability for this variation: 70.98%/29.02%
+Number of playouts used to estimate this variation: 54856]
+W[oo];B[ro]
+C[black/white win probability for this variation: 70.98%/29.02%
+Number of playouts used to estimate this variation: 54856]
+;
+C[black/white win probability for this variation: 70.98%/29.02%
+Number of playouts used to estimate this variation: 54856]
+W[op];B[nq]
+C[black/white win probability for this variation: 70.98%/29.02%
+Number of playouts used to estimate this variation: 54856]
+;
+C[black/white win probability for this variation: 70.98%/29.02%
+Number of playouts used to estimate this variation: 54856]
+W[on];B[mn]
+C[black/white win probability for this variation: 70.98%/29.02%
+Number of playouts used to estimate this variation: 54856]
+;
+C[black/white win probability for this variation: 70.98%/29.02%
+Number of playouts used to estimate this variation: 54856]
+W[mm];B[lm]
+C[black/white win probability for this variation: 70.98%/29.02%
+Number of playouts used to estimate this variation: 54856]
+;
+C[black/white win probability for this variation: 70.98%/29.02%
+Number of playouts used to estimate this variation: 54856]
+W[ml];B[ln]
+C[black/white win probability for this variation: 70.98%/29.02%
+Number of playouts used to estimate this variation: 54856]
+;
+C[black/white win probability for this variation: 70.98%/29.02%
+Number of playouts used to estimate this variation: 54856]
+W[ol];B[fq]
+C[black/white win probability for this variation: 70.98%/29.02%
+Number of playouts used to estimate this variation: 54856]
+;
+C[black/white win probability for this variation: 70.98%/29.02%
+Number of playouts used to estimate this variation: 54856]
+W[dn];B[dl]
+C[black/white win probability for this variation: 70.98%/29.02%
+Number of playouts used to estimate this variation: 54856]
+)(;
+C[black/white win probability for this variation: 71.58%/28.42%
+Number of playouts used to estimate this variation: 24571]
+W[qk];B[pl]
+C[black/white win probability for this variation: 71.58%/28.42%
+Number of playouts used to estimate this variation: 24571]
+;
+C[black/white win probability for this variation: 71.58%/28.42%
+Number of playouts used to estimate this variation: 24571]
+W[pk];B[ol]
+C[black/white win probability for this variation: 71.58%/28.42%
+Number of playouts used to estimate this variation: 24571]
+;
+C[black/white win probability for this variation: 71.58%/28.42%
+Number of playouts used to estimate this variation: 24571]
+W[ok];B[nl]
+C[black/white win probability for this variation: 71.58%/28.42%
+Number of playouts used to estimate this variation: 24571]
+;
+C[black/white win probability for this variation: 71.58%/28.42%
+Number of playouts used to estimate this variation: 24571]
+W[qg];B[fq]
+C[black/white win probability for this variation: 71.58%/28.42%
+Number of playouts used to estimate this variation: 24571]
+;
+C[black/white win probability for this variation: 71.58%/28.42%
+Number of playouts used to estimate this variation: 24571]
+W[cn];B[dr]
+C[black/white win probability for this variation: 71.58%/28.42%
+Number of playouts used to estimate this variation: 24571]
+;
+C[black/white win probability for this variation: 71.58%/28.42%
+Number of playouts used to estimate this variation: 24571]
+W[cq];B[cr]
+C[black/white win probability for this variation: 71.58%/28.42%
+Number of playouts used to estimate this variation: 24571]
+;
+C[black/white win probability for this variation: 71.58%/28.42%
+Number of playouts used to estimate this variation: 24571]
+W[br])(;
+C[black/white win probability for this variation: 74.0%/26.0%
+Number of playouts used to estimate this variation: 1018]
+W[mq];B[nq]
+C[black/white win probability for this variation: 74.0%/26.0%
+Number of playouts used to estimate this variation: 1018]
+;
+C[black/white win probability for this variation: 74.0%/26.0%
+Number of playouts used to estimate this variation: 1018]
+W[oo];B[ro]
+C[black/white win probability for this variation: 74.0%/26.0%
+Number of playouts used to estimate this variation: 1018]
+;
+C[black/white win probability for this variation: 74.0%/26.0%
+Number of playouts used to estimate this variation: 1018]
+W[op];B[mn]
+C[black/white win probability for this variation: 74.0%/26.0%
+Number of playouts used to estimate this variation: 1018]
+)(;
+C[black/white win probability for this variation: 73.96%/26.04%
+Number of playouts used to estimate this variation: 810]
+W[nq];B[mq]
+C[black/white win probability for this variation: 73.96%/26.04%
+Number of playouts used to estimate this variation: 810]
+;
+C[black/white win probability for this variation: 73.96%/26.04%
+Number of playouts used to estimate this variation: 810]
+W[oo];B[ro]
+C[black/white win probability for this variation: 73.96%/26.04%
+Number of playouts used to estimate this variation: 810]
+;
+C[black/white win probability for this variation: 73.96%/26.04%
+Number of playouts used to estimate this variation: 810]
+W[op];B[oq]
+C[black/white win probability for this variation: 73.96%/26.04%
+Number of playouts used to estimate this variation: 810]
+;
+C[black/white win probability for this variation: 73.96%/26.04%
+Number of playouts used to estimate this variation: 810]
+W[pr];B[qr]
+C[black/white win probability for this variation: 73.96%/26.04%
+Number of playouts used to estimate this variation: 810]
+)(;
+C[black/white win probability for this variation: 75.9%/24.1%
+Number of playouts used to estimate this variation: 327]
+W[op];B[no]
+C[black/white win probability for this variation: 75.9%/24.1%
+Number of playouts used to estimate this variation: 327]
+;
+C[black/white win probability for this variation: 75.9%/24.1%
+Number of playouts used to estimate this variation: 327]
+W[oo];B[on]
+C[black/white win probability for this variation: 75.9%/24.1%
+Number of playouts used to estimate this variation: 327]
+;
+C[black/white win probability for this variation: 75.9%/24.1%
+Number of playouts used to estimate this variation: 327]
+W[or]))(;B[nq]
+C[black/white win probability for this variation: 71.02%/28.98%
+Number of playouts used to estimate this variation: 49348]
+;
+C[black/white win probability for this variation: 71.02%/28.98%
+Number of playouts used to estimate this variation: 49348]
+W[or];B[qk]
+C[black/white win probability for this variation: 71.02%/28.98%
+Number of playouts used to estimate this variation: 49348]
+;
+C[black/white win probability for this variation: 71.02%/28.98%
+Number of playouts used to estimate this variation: 49348]
+W[oo];B[ro]
+C[black/white win probability for this variation: 71.02%/28.98%
+Number of playouts used to estimate this variation: 49348]
+;
+C[black/white win probability for this variation: 71.02%/28.98%
+Number of playouts used to estimate this variation: 49348]
+W[op];B[mn]
+C[black/white win probability for this variation: 71.02%/28.98%
+Number of playouts used to estimate this variation: 49348]
+;
+C[black/white win probability for this variation: 71.02%/28.98%
+Number of playouts used to estimate this variation: 49348]
+W[on];B[nl]
+C[black/white win probability for this variation: 71.02%/28.98%
+Number of playouts used to estimate this variation: 49348]
+;
+C[black/white win probability for this variation: 71.02%/28.98%
+Number of playouts used to estimate this variation: 49348]
+W[nr];B[om]
+C[black/white win probability for this variation: 71.02%/28.98%
+Number of playouts used to estimate this variation: 49348]
+)(;B[nr]
+C[black/white win probability for this variation: 70.53%/29.47%
+Number of playouts used to estimate this variation: 31335]
+;
+C[black/white win probability for this variation: 70.53%/29.47%
+Number of playouts used to estimate this variation: 31335]
+W[or];B[qk]
+C[black/white win probability for this variation: 70.53%/29.47%
+Number of playouts used to estimate this variation: 31335]
+;
+C[black/white win probability for this variation: 70.53%/29.47%
+Number of playouts used to estimate this variation: 31335]
+W[oo];B[on]
+C[black/white win probability for this variation: 70.53%/29.47%
+Number of playouts used to estimate this variation: 31335]
+;
+C[black/white win probability for this variation: 70.53%/29.47%
+Number of playouts used to estimate this variation: 31335]
+W[nn];B[ro]
+C[black/white win probability for this variation: 70.53%/29.47%
+Number of playouts used to estimate this variation: 31335]
+;
+C[black/white win probability for this variation: 70.53%/29.47%
+Number of playouts used to estimate this variation: 31335]
+W[no];B[mp]
+C[black/white win probability for this variation: 70.53%/29.47%
+Number of playouts used to estimate this variation: 31335]
+;
+C[black/white win probability for this variation: 70.53%/29.47%
+Number of playouts used to estimate this variation: 31335]
+W[op];B[jq]
+C[black/white win probability for this variation: 70.53%/29.47%
+Number of playouts used to estimate this variation: 31335]
+;
+C[black/white win probability for this variation: 70.53%/29.47%
+Number of playouts used to estimate this variation: 31335]
+W[hq];B[jo]
+C[black/white win probability for this variation: 70.53%/29.47%
+Number of playouts used to estimate this variation: 31335]
+;
+C[black/white win probability for this variation: 70.53%/29.47%
+Number of playouts used to estimate this variation: 31335]
+W[ip])(;B[qk]
+C[black/white win probability for this variation: 69.89%/30.11%
+Number of playouts used to estimate this variation: 22207]
+;
+C[black/white win probability for this variation: 69.89%/30.11%
+Number of playouts used to estimate this variation: 22207]
+W[oo];B[on]
+C[black/white win probability for this variation: 69.89%/30.11%
+Number of playouts used to estimate this variation: 22207]
+;
+C[black/white win probability for this variation: 69.89%/30.11%
+Number of playouts used to estimate this variation: 22207]
+W[nn];B[ro]
+C[black/white win probability for this variation: 69.89%/30.11%
+Number of playouts used to estimate this variation: 22207]
+;
+C[black/white win probability for this variation: 69.89%/30.11%
+Number of playouts used to estimate this variation: 22207]
+W[no];B[mp]
+C[black/white win probability for this variation: 69.89%/30.11%
+Number of playouts used to estimate this variation: 22207]
+;
+C[black/white win probability for this variation: 69.89%/30.11%
+Number of playouts used to estimate this variation: 22207]
+W[op];B[jp]
+C[black/white win probability for this variation: 69.89%/30.11%
+Number of playouts used to estimate this variation: 22207]
+;
+C[black/white win probability for this variation: 69.89%/30.11%
+Number of playouts used to estimate this variation: 22207]
+W[hq];B[ln]
+C[black/white win probability for this variation: 69.89%/30.11%
+Number of playouts used to estimate this variation: 22207]
+;
+C[black/white win probability for this variation: 69.89%/30.11%
+Number of playouts used to estimate this variation: 22207]
+W[nl];B[ll]
+C[black/white win probability for this variation: 69.89%/30.11%
+Number of playouts used to estimate this variation: 22207]
+;
+C[black/white win probability for this variation: 69.89%/30.11%
+Number of playouts used to estimate this variation: 22207]
+W[nj];B[lj]
+C[black/white win probability for this variation: 69.89%/30.11%
+Number of playouts used to estimate this variation: 22207]
+;
+C[black/white win probability for this variation: 69.89%/30.11%
+Number of playouts used to estimate this variation: 22207]
+W[nh];B[lh]
+C[black/white win probability for this variation: 69.89%/30.11%
+Number of playouts used to estimate this variation: 22207]
+)(;B[or]
+C[black/white win probability for this variation: 70.01%/29.99%
+Number of playouts used to estimate this variation: 15954]
+;
+C[black/white win probability for this variation: 70.01%/29.99%
+Number of playouts used to estimate this variation: 15954]
+W[nq];B[mq]
+C[black/white win probability for this variation: 70.01%/29.99%
+Number of playouts used to estimate this variation: 15954]
+;
+C[black/white win probability for this variation: 70.01%/29.99%
+Number of playouts used to estimate this variation: 15954]
+W[mp];B[no]
+C[black/white win probability for this variation: 70.01%/29.99%
+Number of playouts used to estimate this variation: 15954]
+;
+C[black/white win probability for this variation: 70.01%/29.99%
+Number of playouts used to estimate this variation: 15954]
+W[qk];B[pl]
+C[black/white win probability for this variation: 70.01%/29.99%
+Number of playouts used to estimate this variation: 15954]
+;
+C[black/white win probability for this variation: 70.01%/29.99%
+Number of playouts used to estimate this variation: 15954]
+W[pk];B[ol]
+C[black/white win probability for this variation: 70.01%/29.99%
+Number of playouts used to estimate this variation: 15954]
+;
+C[black/white win probability for this variation: 70.01%/29.99%
+Number of playouts used to estimate this variation: 15954]
+W[ok];B[nl]
+C[black/white win probability for this variation: 70.01%/29.99%
+Number of playouts used to estimate this variation: 15954]
+;
+C[black/white win probability for this variation: 70.01%/29.99%
+Number of playouts used to estimate this variation: 15954]
+W[qf];B[qh]
+C[black/white win probability for this variation: 70.01%/29.99%
+Number of playouts used to estimate this variation: 15954]
+)(;B[ro]
+C[black/white win probability for this variation: 70.86%/29.14%
+Number of playouts used to estimate this variation: 3787]
+;
+C[black/white win probability for this variation: 70.86%/29.14%
+Number of playouts used to estimate this variation: 3787]
+W[nr];B[mr]
+C[black/white win probability for this variation: 70.86%/29.14%
+Number of playouts used to estimate this variation: 3787]
+;
+C[black/white win probability for this variation: 70.86%/29.14%
+Number of playouts used to estimate this variation: 3787]
+W[nq];B[mq]
+C[black/white win probability for this variation: 70.86%/29.14%
+Number of playouts used to estimate this variation: 3787]
+;
+C[black/white win probability for this variation: 70.86%/29.14%
+Number of playouts used to estimate this variation: 3787]
+W[mp];B[op]
+C[black/white win probability for this variation: 70.86%/29.14%
+Number of playouts used to estimate this variation: 3787]
+;
+C[black/white win probability for this variation: 70.86%/29.14%
+Number of playouts used to estimate this variation: 3787]
+W[oq];B[qk]
+C[black/white win probability for this variation: 70.86%/29.14%
+Number of playouts used to estimate this variation: 3787]
+)(;B[pl]
+C[black/white win probability for this variation: 70.77%/29.23%
+Number of playouts used to estimate this variation: 2434]
+;
+C[black/white win probability for this variation: 70.77%/29.23%
+Number of playouts used to estimate this variation: 2434]
+W[nq];B[mq]
+C[black/white win probability for this variation: 70.77%/29.23%
+Number of playouts used to estimate this variation: 2434]
+;
+C[black/white win probability for this variation: 70.77%/29.23%
+Number of playouts used to estimate this variation: 2434]
+W[nr];B[mp]
+C[black/white win probability for this variation: 70.77%/29.23%
+Number of playouts used to estimate this variation: 2434]
+;
+C[black/white win probability for this variation: 70.77%/29.23%
+Number of playouts used to estimate this variation: 2434]
+W[mr]))(;
+C[black/white win probability for this variation: 67.86%/32.14%
+Number of playouts used to estimate this variation: 10]
+W[qk];B[pl]
+C[black/white win probability for this variation: 67.86%/32.14%
+Number of playouts used to estimate this variation: 10]
+;
+C[black/white win probability for this variation: 67.86%/32.14%
+Number of playouts used to estimate this variation: 10]
+W[pk];B[ol]
+C[black/white win probability for this variation: 67.86%/32.14%
+Number of playouts used to estimate this variation: 10]
+;
+C[black/white win probability for this variation: 67.86%/32.14%
+Number of playouts used to estimate this variation: 10]
+W[ok];B[nl]
+C[black/white win probability for this variation: 67.86%/32.14%
+Number of playouts used to estimate this variation: 10]
+;
+C[black/white win probability for this variation: 67.86%/32.14%
+Number of playouts used to estimate this variation: 10]
+W[qg];B[mq]
+C[black/white win probability for this variation: 67.86%/32.14%
+Number of playouts used to estimate this variation: 10]
+;
+C[black/white win probability for this variation: 67.86%/32.14%
+Number of playouts used to estimate this variation: 10]
+W[fq];B[ce]
+C[black/white win probability for this variation: 67.86%/32.14%
+Number of playouts used to estimate this variation: 10]
+;
+C[black/white win probability for this variation: 67.86%/32.14%
+Number of playouts used to estimate this variation: 10]
+W[dh];B[ed]
+C[black/white win probability for this variation: 67.86%/32.14%
+Number of playouts used to estimate this variation: 10]
+;
+C[black/white win probability for this variation: 67.86%/32.14%
+Number of playouts used to estimate this variation: 10]
+W[dd];B[de]
+C[black/white win probability for this variation: 67.86%/32.14%
+Number of playouts used to estimate this variation: 10]
+;
+C[black/white win probability for this variation: 67.86%/32.14%
+Number of playouts used to estimate this variation: 10]
+W[ee];B[dg]
+C[black/white win probability for this variation: 67.86%/32.14%
+Number of playouts used to estimate this variation: 10]
+;
+C[black/white win probability for this variation: 67.86%/32.14%
+Number of playouts used to estimate this variation: 10]
+W[fd];B[ef]
+C[black/white win probability for this variation: 67.86%/32.14%
+Number of playouts used to estimate this variation: 10]
+;
+C[black/white win probability for this variation: 67.86%/32.14%
+Number of playouts used to estimate this variation: 10]
+W[fe])(;
+C[black/white win probability for this variation: 57.32%/42.68%
+Number of playouts used to estimate this variation: 7]
+W[oo]))(;B[rn]
+C[black/white win probability for this variation: 67.53%/32.47%
+Number of playouts used to estimate this variation: 20]
+;
+C[black/white win probability for this variation: 67.53%/32.47%
+Number of playouts used to estimate this variation: 20]
+W[qk]))(;
+C[black/white win probability for this variation: 58.99%/41.01%
+Number of playouts used to estimate this variation: 129265]
+W[rn];B[rl]
+C[black/white win probability for this variation: 58.99%/41.01%
+Number of playouts used to estimate this variation: 129265]
+;
+C[black/white win probability for this variation: 58.99%/41.01%
+Number of playouts used to estimate this variation: 129265]
+W[qq];B[sm]
+C[black/white win probability for this variation: 58.99%/41.01%
+Number of playouts used to estimate this variation: 129265]
+;
+C[black/white win probability for this variation: 58.99%/41.01%
+Number of playouts used to estimate this variation: 129265]
+W[oo];B[on]
+C[black/white win probability for this variation: 58.99%/41.01%
+Number of playouts used to estimate this variation: 129265]
+;
+C[black/white win probability for this variation: 58.99%/41.01%
+Number of playouts used to estimate this variation: 129265]
+W[no];B[om]
+C[black/white win probability for this variation: 58.99%/41.01%
+Number of playouts used to estimate this variation: 129265]
+;
+C[black/white win probability for this variation: 58.99%/41.01%
+Number of playouts used to estimate this variation: 129265]
+W[mp];B[de]
+C[black/white win probability for this variation: 58.99%/41.01%
+Number of playouts used to estimate this variation: 129265]
+;
+C[black/white win probability for this variation: 58.99%/41.01%
+Number of playouts used to estimate this variation: 129265]
+W[ce];B[cf]
+C[black/white win probability for this variation: 58.99%/41.01%
+Number of playouts used to estimate this variation: 129265]
+;
+C[black/white win probability for this variation: 58.99%/41.01%
+Number of playouts used to estimate this variation: 129265]
+W[cd];B[dg]
+C[black/white win probability for this variation: 58.99%/41.01%
+Number of playouts used to estimate this variation: 129265]
+;
+C[black/white win probability for this variation: 58.99%/41.01%
+Number of playouts used to estimate this variation: 129265]
+W[fc];B[ck]
+C[black/white win probability for this variation: 58.99%/41.01%
+Number of playouts used to estimate this variation: 129265]
+;
+C[black/white win probability for this variation: 58.99%/41.01%
+Number of playouts used to estimate this variation: 129265]
+W[cm];B[ek]
+C[black/white win probability for this variation: 58.99%/41.01%
+Number of playouts used to estimate this variation: 129265]
+;
+C[black/white win probability for this variation: 58.99%/41.01%
+Number of playouts used to estimate this variation: 129265]
+W[eq];B[gq]
+C[black/white win probability for this variation: 58.99%/41.01%
+Number of playouts used to estimate this variation: 129265]
+)(;
+C[black/white win probability for this variation: 56.36%/43.64%
+Number of playouts used to estimate this variation: 5886]
+W[oo];B[on]
+C[black/white win probability for this variation: 56.36%/43.64%
+Number of playouts used to estimate this variation: 5886]
+;
+C[black/white win probability for this variation: 56.36%/43.64%
+Number of playouts used to estimate this variation: 5886]
+W[nn];B[om]
+C[black/white win probability for this variation: 56.36%/43.64%
+Number of playouts used to estimate this variation: 5886]
+;
+C[black/white win probability for this variation: 56.36%/43.64%
+Number of playouts used to estimate this variation: 5886]
+W[no];B[mp]
+C[black/white win probability for this variation: 56.36%/43.64%
+Number of playouts used to estimate this variation: 5886]
+;
+C[black/white win probability for this variation: 56.36%/43.64%
+Number of playouts used to estimate this variation: 5886]
+W[op];B[rn]
+C[black/white win probability for this variation: 56.36%/43.64%
+Number of playouts used to estimate this variation: 5886]
+;
+C[black/white win probability for this variation: 56.36%/43.64%
+Number of playouts used to estimate this variation: 5886]
+W[jp];B[nm]
+C[black/white win probability for this variation: 56.36%/43.64%
+Number of playouts used to estimate this variation: 5886]
+)(;
+C[black/white win probability for this variation: 62.4%/37.6%
+Number of playouts used to estimate this variation: 3131]
+W[ro];B[so]
+C[black/white win probability for this variation: 62.4%/37.6%
+Number of playouts used to estimate this variation: 3131]
+;
+C[black/white win probability for this variation: 62.4%/37.6%
+Number of playouts used to estimate this variation: 3131]
+W[rn];B[rl]
+C[black/white win probability for this variation: 62.4%/37.6%
+Number of playouts used to estimate this variation: 3131]
+;
+C[black/white win probability for this variation: 62.4%/37.6%
+Number of playouts used to estimate this variation: 3131]
+W[oo];B[on]
+C[black/white win probability for this variation: 62.4%/37.6%
+Number of playouts used to estimate this variation: 3131]
+;
+C[black/white win probability for this variation: 62.4%/37.6%
+Number of playouts used to estimate this variation: 3131]
+W[nn];B[om]
+C[black/white win probability for this variation: 62.4%/37.6%
+Number of playouts used to estimate this variation: 3131]
+;
+C[black/white win probability for this variation: 62.4%/37.6%
+Number of playouts used to estimate this variation: 3131]
+W[nm];B[ol]
+C[black/white win probability for this variation: 62.4%/37.6%
+Number of playouts used to estimate this variation: 3131]
+;
+C[black/white win probability for this variation: 62.4%/37.6%
+Number of playouts used to estimate this variation: 3131]
+W[no];B[nl]
+C[black/white win probability for this variation: 62.4%/37.6%
+Number of playouts used to estimate this variation: 3131]
+;
+C[black/white win probability for this variation: 62.4%/37.6%
+Number of playouts used to estimate this variation: 3131]
+W[lm])(;
+C[black/white win probability for this variation: 54.54%/45.46%
+Number of playouts used to estimate this variation: 78]
+W[rl];B[qk]
+C[black/white win probability for this variation: 54.54%/45.46%
+Number of playouts used to estimate this variation: 78]
+))(;B[ql]
+C[black/white win probability for this variation: 55.62%/44.38%
+Number of playouts used to estimate this variation: 9819]
+;
+C[black/white win probability for this variation: 55.62%/44.38%
+Number of playouts used to estimate this variation: 9819]
+W[rn];B[qq]
+C[black/white win probability for this variation: 55.62%/44.38%
+Number of playouts used to estimate this variation: 9819]
+))(;
+C[black/white win probability for this variation: 51.83%/48.17%
+Number of playouts used to estimate this variation: 102955]
+W[nq];B[no]
+C[black/white win probability for this variation: 51.83%/48.17%
+Number of playouts used to estimate this variation: 102955]
+;
+C[black/white win probability for this variation: 51.83%/48.17%
+Number of playouts used to estimate this variation: 102955]
+W[mq];B[rn]
+C[black/white win probability for this variation: 51.83%/48.17%
+Number of playouts used to estimate this variation: 102955]
+;
+C[black/white win probability for this variation: 51.83%/48.17%
+Number of playouts used to estimate this variation: 102955]
+W[ql];B[rm]
+C[black/white win probability for this variation: 51.83%/48.17%
+Number of playouts used to estimate this variation: 102955]
+;
+C[black/white win probability for this variation: 51.83%/48.17%
+Number of playouts used to estimate this variation: 102955]
+W[nn])(;
+C[black/white win probability for this variation: 53.82%/46.18%
+Number of playouts used to estimate this variation: 91290]
+W[ql];B[rm]
+C[black/white win probability for this variation: 53.82%/46.18%
+Number of playouts used to estimate this variation: 91290]
+;
+C[black/white win probability for this variation: 53.82%/46.18%
+Number of playouts used to estimate this variation: 91290]
+W[nq];B[mp]
+C[black/white win probability for this variation: 53.82%/46.18%
+Number of playouts used to estimate this variation: 91290]
+;
+C[black/white win probability for this variation: 53.82%/46.18%
+Number of playouts used to estimate this variation: 91290]
+W[mq];B[op]
+C[black/white win probability for this variation: 53.82%/46.18%
+Number of playouts used to estimate this variation: 91290]
+;
+C[black/white win probability for this variation: 53.82%/46.18%
+Number of playouts used to estimate this variation: 91290]
+W[oq];B[lp]
+C[black/white win probability for this variation: 53.82%/46.18%
+Number of playouts used to estimate this variation: 91290]
+;
+C[black/white win probability for this variation: 53.82%/46.18%
+Number of playouts used to estimate this variation: 91290]
+W[lq];B[kp]
+C[black/white win probability for this variation: 53.82%/46.18%
+Number of playouts used to estimate this variation: 91290]
+;
+C[black/white win probability for this variation: 53.82%/46.18%
+Number of playouts used to estimate this variation: 91290]
+W[om];B[nn]
+C[black/white win probability for this variation: 53.82%/46.18%
+Number of playouts used to estimate this variation: 91290]
+;
+C[black/white win probability for this variation: 53.82%/46.18%
+Number of playouts used to estimate this variation: 91290]
+W[rl];B[rn]
+C[black/white win probability for this variation: 53.82%/46.18%
+Number of playouts used to estimate this variation: 91290]
+;
+C[black/white win probability for this variation: 53.82%/46.18%
+Number of playouts used to estimate this variation: 91290]
+W[qh];B[kq]
+C[black/white win probability for this variation: 53.82%/46.18%
+Number of playouts used to estimate this variation: 91290]
+;
+C[black/white win probability for this variation: 53.82%/46.18%
+Number of playouts used to estimate this variation: 91290]
+W[rr];B[cn]
+C[black/white win probability for this variation: 53.82%/46.18%
+Number of playouts used to estimate this variation: 91290]
+;
+C[black/white win probability for this variation: 53.82%/46.18%
+Number of playouts used to estimate this variation: 91290]
+W[co])(;
+C[black/white win probability for this variation: 51.1%/48.9%
+Number of playouts used to estimate this variation: 31454]
+W[no];B[rn]
+C[black/white win probability for this variation: 51.1%/48.9%
+Number of playouts used to estimate this variation: 31454]
+;
+C[black/white win probability for this variation: 51.1%/48.9%
+Number of playouts used to estimate this variation: 31454]
+W[mp];B[fq]
+C[black/white win probability for this variation: 51.1%/48.9%
+Number of playouts used to estimate this variation: 31454]
+;
+C[black/white win probability for this variation: 51.1%/48.9%
+Number of playouts used to estimate this variation: 31454]
+W[hq];B[cq]
+C[black/white win probability for this variation: 51.1%/48.9%
+Number of playouts used to estimate this variation: 31454]
+)(;
+C[black/white win probability for this variation: 55.56%/44.44%
+Number of playouts used to estimate this variation: 12753]
+W[oo];B[on]
+C[black/white win probability for this variation: 55.56%/44.44%
+Number of playouts used to estimate this variation: 12753]
+;
+C[black/white win probability for this variation: 55.56%/44.44%
+Number of playouts used to estimate this variation: 12753]
+W[no];B[om]
+C[black/white win probability for this variation: 55.56%/44.44%
+Number of playouts used to estimate this variation: 12753]
+;
+C[black/white win probability for this variation: 55.56%/44.44%
+Number of playouts used to estimate this variation: 12753]
+W[mp];B[pl]
+C[black/white win probability for this variation: 55.56%/44.44%
+Number of playouts used to estimate this variation: 12753]
+;
+C[black/white win probability for this variation: 55.56%/44.44%
+Number of playouts used to estimate this variation: 12753]
+W[ci];B[gd]
+C[black/white win probability for this variation: 55.56%/44.44%
+Number of playouts used to estimate this variation: 12753]
+;
+C[black/white win probability for this variation: 55.56%/44.44%
+Number of playouts used to estimate this variation: 12753]
+W[de];B[gf]
+C[black/white win probability for this variation: 55.56%/44.44%
+Number of playouts used to estimate this variation: 12753]
+)(;
+C[black/white win probability for this variation: 55.53%/44.47%
+Number of playouts used to estimate this variation: 9835]
+W[rm];B[ql]
+C[black/white win probability for this variation: 55.53%/44.47%
+Number of playouts used to estimate this variation: 9835]
+;
+C[black/white win probability for this variation: 55.53%/44.47%
+Number of playouts used to estimate this variation: 9835]
+W[rn];B[rl]
+C[black/white win probability for this variation: 55.53%/44.47%
+Number of playouts used to estimate this variation: 9835]
+;
+C[black/white win probability for this variation: 55.53%/44.47%
+Number of playouts used to estimate this variation: 9835]
+W[qq];B[rq]
+C[black/white win probability for this variation: 55.53%/44.47%
+Number of playouts used to estimate this variation: 9835]
+;
+C[black/white win probability for this variation: 55.53%/44.47%
+Number of playouts used to estimate this variation: 9835]
+W[rr];B[ro]
+C[black/white win probability for this variation: 55.53%/44.47%
+Number of playouts used to estimate this variation: 9835]
+;
+C[black/white win probability for this variation: 55.53%/44.47%
+Number of playouts used to estimate this variation: 9835]
+W[oo];B[on]
+C[black/white win probability for this variation: 55.53%/44.47%
+Number of playouts used to estimate this variation: 9835]
+;
+C[black/white win probability for this variation: 55.53%/44.47%
+Number of playouts used to estimate this variation: 9835]
+W[nn];B[om]
+C[black/white win probability for this variation: 55.53%/44.47%
+Number of playouts used to estimate this variation: 9835]
+;
+C[black/white win probability for this variation: 55.53%/44.47%
+Number of playouts used to estimate this variation: 9835]
+W[nm];B[ol]
+C[black/white win probability for this variation: 55.53%/44.47%
+Number of playouts used to estimate this variation: 9835]
+;
+C[black/white win probability for this variation: 55.53%/44.47%
+Number of playouts used to estimate this variation: 9835]
+W[no];B[mp]
+C[black/white win probability for this variation: 55.53%/44.47%
+Number of playouts used to estimate this variation: 9835]
+)(;
+C[black/white win probability for this variation: 52.05%/47.95%
+Number of playouts used to estimate this variation: 1346]
+W[om];B[oo]
+C[black/white win probability for this variation: 52.05%/47.95%
+Number of playouts used to estimate this variation: 1346]
+;
+C[black/white win probability for this variation: 52.05%/47.95%
+Number of playouts used to estimate this variation: 1346]
+W[ql];B[rm]
+C[black/white win probability for this variation: 52.05%/47.95%
+Number of playouts used to estimate this variation: 1346]
+;
+C[black/white win probability for this variation: 52.05%/47.95%
+Number of playouts used to estimate this variation: 1346]
+W[rl];B[rn]
+C[black/white win probability for this variation: 52.05%/47.95%
+Number of playouts used to estimate this variation: 1346]
+;
+C[black/white win probability for this variation: 52.05%/47.95%
+Number of playouts used to estimate this variation: 1346]
+W[qh];B[ce]
+C[black/white win probability for this variation: 52.05%/47.95%
+Number of playouts used to estimate this variation: 1346]
+;
+C[black/white win probability for this variation: 52.05%/47.95%
+Number of playouts used to estimate this variation: 1346]
+W[fc]))(;B[qm]
+C[black/white win probability for this variation: 51.85%/48.15%
+Number of playouts used to estimate this variation: 131521]
+;
+C[black/white win probability for this variation: 51.85%/48.15%
+Number of playouts used to estimate this variation: 131521]
+W[nq];B[no]
+C[black/white win probability for this variation: 51.85%/48.15%
+Number of playouts used to estimate this variation: 131521]
+;
+C[black/white win probability for this variation: 51.85%/48.15%
+Number of playouts used to estimate this variation: 131521]
+W[lq];B[ql]
+C[black/white win probability for this variation: 51.85%/48.15%
+Number of playouts used to estimate this variation: 131521]
+;
+C[black/white win probability for this variation: 51.85%/48.15%
+Number of playouts used to estimate this variation: 131521]
+W[mp];B[de]
+C[black/white win probability for this variation: 51.85%/48.15%
+Number of playouts used to estimate this variation: 131521]
+;
+C[black/white win probability for this variation: 51.85%/48.15%
+Number of playouts used to estimate this variation: 131521]
+W[ce];B[dd]
+C[black/white win probability for this variation: 51.85%/48.15%
+Number of playouts used to estimate this variation: 131521]
+;
+C[black/white win probability for this variation: 51.85%/48.15%
+Number of playouts used to estimate this variation: 131521]
+W[cd];B[ec]
+C[black/white win probability for this variation: 51.85%/48.15%
+Number of playouts used to estimate this variation: 131521]
+;
+C[black/white win probability for this variation: 51.85%/48.15%
+Number of playouts used to estimate this variation: 131521]
+W[cf];B[db]
+C[black/white win probability for this variation: 51.85%/48.15%
+Number of playouts used to estimate this variation: 131521]
+;
+C[black/white win probability for this variation: 51.85%/48.15%
+Number of playouts used to estimate this variation: 131521]
+W[cc];B[cb]
+C[black/white win probability for this variation: 51.85%/48.15%
+Number of playouts used to estimate this variation: 131521]
+)(;B[nn]
+C[black/white win probability for this variation: 39.64%/60.36%
+Number of playouts used to estimate this variation: 308]
+;
+C[black/white win probability for this variation: 39.64%/60.36%
+Number of playouts used to estimate this variation: 308]
+W[ql];B[qr]
+C[black/white win probability for this variation: 39.64%/60.36%
+Number of playouts used to estimate this variation: 308]
+;
+C[black/white win probability for this variation: 39.64%/60.36%
+Number of playouts used to estimate this variation: 308]
+W[pr])(;B[om]
+C[black/white win probability for this variation: 37.12%/62.88%
+Number of playouts used to estimate this variation: 110]
+;
+C[black/white win probability for this variation: 37.12%/62.88%
+Number of playouts used to estimate this variation: 110]
+W[qm];B[ol]
+C[black/white win probability for this variation: 37.12%/62.88%
+Number of playouts used to estimate this variation: 110]
+)(;B[op]
+C[black/white win probability for this variation: 37.2%/62.8%
+Number of playouts used to estimate this variation: 106]
+;
+C[black/white win probability for this variation: 37.2%/62.8%
+Number of playouts used to estimate this variation: 106]
+W[oo];B[on]
+C[black/white win probability for this variation: 37.2%/62.8%
+Number of playouts used to estimate this variation: 106]
+)(;B[qq]
+C[black/white win probability for this variation: 35.87%/64.13%
+Number of playouts used to estimate this variation: 105]
+;
+C[black/white win probability for this variation: 35.87%/64.13%
+Number of playouts used to estimate this variation: 105]
+W[qr])(;B[qr]
+C[black/white win probability for this variation: 38.38%/61.62%
+Number of playouts used to estimate this variation: 47]
+;
+C[black/white win probability for this variation: 38.38%/61.62%
+Number of playouts used to estimate this variation: 47]
+W[pr]))(;
+C[black/white win probability for this variation: 42.61%/57.39%
+Number of playouts used to estimate this variation: 1944]
+W[qm];B[pr]
+C[black/white win probability for this variation: 42.61%/57.39%
+Number of playouts used to estimate this variation: 1944]
+)(;
+C[black/white win probability for this variation: 53.66%/46.34%
+Number of playouts used to estimate this variation: 45]
+W[pm];B[om]
+C[black/white win probability for this variation: 53.66%/46.34%
+Number of playouts used to estimate this variation: 45]
+))(;B[qq]
+C[black/white win probability for this variation: 46.74%/53.26%
+Number of playouts used to estimate this variation: 119849]
+;
+C[black/white win probability for this variation: 46.74%/53.26%
+Number of playouts used to estimate this variation: 119849]
+W[qr];B[rr]
+C[black/white win probability for this variation: 46.74%/53.26%
+Number of playouts used to estimate this variation: 119849]
+;
+C[black/white win probability for this variation: 46.74%/53.26%
+Number of playouts used to estimate this variation: 119849]
+W[or];B[qs]
+C[black/white win probability for this variation: 46.74%/53.26%
+Number of playouts used to estimate this variation: 119849]
+;
+C[black/white win probability for this variation: 46.74%/53.26%
+Number of playouts used to estimate this variation: 119849]
+W[pr];B[rp]
+C[black/white win probability for this variation: 46.74%/53.26%
+Number of playouts used to estimate this variation: 119849]
+;
+C[black/white win probability for this variation: 46.74%/53.26%
+Number of playouts used to estimate this variation: 119849]
+W[qm];B[pm]
+C[black/white win probability for this variation: 46.74%/53.26%
+Number of playouts used to estimate this variation: 119849]
+;
+C[black/white win probability for this variation: 46.74%/53.26%
+Number of playouts used to estimate this variation: 119849]
+W[ql];B[nr]
+C[black/white win probability for this variation: 46.74%/53.26%
+Number of playouts used to estimate this variation: 119849]
+;
+C[black/white win probability for this variation: 46.74%/53.26%
+Number of playouts used to estimate this variation: 119849]
+W[rs];B[op]
+C[black/white win probability for this variation: 46.74%/53.26%
+Number of playouts used to estimate this variation: 119849]
+;
+C[black/white win probability for this variation: 46.74%/53.26%
+Number of playouts used to estimate this variation: 119849]
+W[sr];B[ss]
+C[black/white win probability for this variation: 46.74%/53.26%
+Number of playouts used to estimate this variation: 119849]
+;
+C[black/white win probability for this variation: 46.74%/53.26%
+Number of playouts used to estimate this variation: 119849]
+W[mr];B[ns]
+C[black/white win probability for this variation: 46.74%/53.26%
+Number of playouts used to estimate this variation: 119849]
+;
+C[black/white win probability for this variation: 46.74%/53.26%
+Number of playouts used to estimate this variation: 119849]
+W[rs];B[rq]
+C[black/white win probability for this variation: 46.74%/53.26%
+Number of playouts used to estimate this variation: 119849]
+)(;B[rp]
+C[black/white win probability for this variation: 42.8%/57.2%
+Number of playouts used to estimate this variation: 2089]
+;
+C[black/white win probability for this variation: 42.8%/57.2%
+Number of playouts used to estimate this variation: 2089]
+W[qm];B[pm]
+C[black/white win probability for this variation: 42.8%/57.2%
+Number of playouts used to estimate this variation: 2089]
+;
+C[black/white win probability for this variation: 42.8%/57.2%
+Number of playouts used to estimate this variation: 2089]
+W[ql];B[qq]
+C[black/white win probability for this variation: 42.8%/57.2%
+Number of playouts used to estimate this variation: 2089]
+;
+C[black/white win probability for this variation: 42.8%/57.2%
+Number of playouts used to estimate this variation: 2089]
+W[qr])(;B[qm]
+C[black/white win probability for this variation: 44.51%/55.49%
+Number of playouts used to estimate this variation: 869]
+;
+C[black/white win probability for this variation: 44.51%/55.49%
+Number of playouts used to estimate this variation: 869]
+W[rp];B[pm]
+C[black/white win probability for this variation: 44.51%/55.49%
+Number of playouts used to estimate this variation: 869]
+;
+C[black/white win probability for this variation: 44.51%/55.49%
+Number of playouts used to estimate this variation: 869]
+W[ce]))(;
+C[black/white win probability for this variation: 45.47%/54.53%
+Number of playouts used to estimate this variation: 7492]
+W[pp];B[qq]
+C[black/white win probability for this variation: 45.47%/54.53%
+Number of playouts used to estimate this variation: 7492]
+;
+C[black/white win probability for this variation: 45.47%/54.53%
+Number of playouts used to estimate this variation: 7492]
+W[qr];B[rr]
+C[black/white win probability for this variation: 45.47%/54.53%
+Number of playouts used to estimate this variation: 7492]
+;
+C[black/white win probability for this variation: 45.47%/54.53%
+Number of playouts used to estimate this variation: 7492]
+W[pr];B[qm]
+C[black/white win probability for this variation: 45.47%/54.53%
+Number of playouts used to estimate this variation: 7492]
+;
+C[black/white win probability for this variation: 45.47%/54.53%
+Number of playouts used to estimate this variation: 7492]
+W[ro];B[rp]
+C[black/white win probability for this variation: 45.47%/54.53%
+Number of playouts used to estimate this variation: 7492]
+;
+C[black/white win probability for this variation: 45.47%/54.53%
+Number of playouts used to estimate this variation: 7492]
+W[sp];B[rq]
+C[black/white win probability for this variation: 45.47%/54.53%
+Number of playouts used to estimate this variation: 7492]
+;
+C[black/white win probability for this variation: 45.47%/54.53%
+Number of playouts used to estimate this variation: 7492]
+W[rm];B[ql]
+C[black/white win probability for this variation: 45.47%/54.53%
+Number of playouts used to estimate this variation: 7492]
+;
+C[black/white win probability for this variation: 45.47%/54.53%
+Number of playouts used to estimate this variation: 7492]
+W[rl])(;
+C[black/white win probability for this variation: 49.86%/50.14%
+Number of playouts used to estimate this variation: 170]
+W[qm];B[pp]
+C[black/white win probability for this variation: 49.86%/50.14%
+Number of playouts used to estimate this variation: 170]
+;
+C[black/white win probability for this variation: 49.86%/50.14%
+Number of playouts used to estimate this variation: 170]
+W[oq])(;
+C[black/white win probability for this variation: 47.64%/52.36%
+Number of playouts used to estimate this variation: 67]
+W[rp];B[qq]
+C[black/white win probability for this variation: 47.64%/52.36%
+Number of playouts used to estimate this variation: 67]
+)(;
+C[black/white win probability for this variation: 52.22%/47.78%
+Number of playouts used to estimate this variation: 37]
+W[qq];B[rq]
+C[black/white win probability for this variation: 52.22%/47.78%
+Number of playouts used to estimate this variation: 37]
+))(;B[qm]
+C[black/white win probability for this variation: 47.88%/52.12%
+Number of playouts used to estimate this variation: 192115]
+;
+C[black/white win probability for this variation: 47.88%/52.12%
+Number of playouts used to estimate this variation: 192115]
+W[pp];B[pm]
+C[black/white win probability for this variation: 47.88%/52.12%
+Number of playouts used to estimate this variation: 192115]
+;
+C[black/white win probability for this variation: 47.88%/52.12%
+Number of playouts used to estimate this variation: 192115]
+W[pi];B[pg]
+C[black/white win probability for this variation: 47.88%/52.12%
+Number of playouts used to estimate this variation: 192115]
+;
+C[black/white win probability for this variation: 47.88%/52.12%
+Number of playouts used to estimate this variation: 192115]
+W[ni];B[or]
+C[black/white win probability for this variation: 47.88%/52.12%
+Number of playouts used to estimate this variation: 192115]
+;
+C[black/white win probability for this variation: 47.88%/52.12%
+Number of playouts used to estimate this variation: 192115]
+W[pr];B[li]
+C[black/white win probability for this variation: 47.88%/52.12%
+Number of playouts used to estimate this variation: 192115]
+;
+C[black/white win probability for this variation: 47.88%/52.12%
+Number of playouts used to estimate this variation: 192115]
+W[mk];B[nj]
+C[black/white win probability for this variation: 47.88%/52.12%
+Number of playouts used to estimate this variation: 192115]
+;
+C[black/white win probability for this variation: 47.88%/52.12%
+Number of playouts used to estimate this variation: 192115]
+W[mj];B[mi]
+C[black/white win probability for this variation: 47.88%/52.12%
+Number of playouts used to estimate this variation: 192115]
+;
+C[black/white win probability for this variation: 47.88%/52.12%
+Number of playouts used to estimate this variation: 192115]
+W[nh];B[nk]
+C[black/white win probability for this variation: 47.88%/52.12%
+Number of playouts used to estimate this variation: 192115]
+)(;B[pm]
+C[black/white win probability for this variation: 46.91%/53.09%
+Number of playouts used to estimate this variation: 23127]
+;
+C[black/white win probability for this variation: 46.91%/53.09%
+Number of playouts used to estimate this variation: 23127]
+W[pp];B[qm]
+C[black/white win probability for this variation: 46.91%/53.09%
+Number of playouts used to estimate this variation: 23127]
+;
+C[black/white win probability for this variation: 46.91%/53.09%
+Number of playouts used to estimate this variation: 23127]
+W[nr];B[de]
+C[black/white win probability for this variation: 46.91%/53.09%
+Number of playouts used to estimate this variation: 23127]
+;
+C[black/white win probability for this variation: 46.91%/53.09%
+Number of playouts used to estimate this variation: 23127]
+W[ce];B[cf]
+C[black/white win probability for this variation: 46.91%/53.09%
+Number of playouts used to estimate this variation: 23127]
+;
+C[black/white win probability for this variation: 46.91%/53.09%
+Number of playouts used to estimate this variation: 23127]
+W[cd];B[df]
+C[black/white win probability for this variation: 46.91%/53.09%
+Number of playouts used to estimate this variation: 23127]
+;
+C[black/white win probability for this variation: 46.91%/53.09%
+Number of playouts used to estimate this variation: 23127]
+W[fc];B[dj]
+C[black/white win probability for this variation: 46.91%/53.09%
+Number of playouts used to estimate this variation: 23127]
+;
+C[black/white win probability for this variation: 46.91%/53.09%
+Number of playouts used to estimate this variation: 23127]
+W[cl];B[ph]
+C[black/white win probability for this variation: 46.91%/53.09%
+Number of playouts used to estimate this variation: 23127]
+)(;B[pp]
+C[black/white win probability for this variation: 46.49%/53.51%
+Number of playouts used to estimate this variation: 21315]
+;
+C[black/white win probability for this variation: 46.49%/53.51%
+Number of playouts used to estimate this variation: 21315]
+W[qp];B[oq]
+C[black/white win probability for this variation: 46.49%/53.51%
+Number of playouts used to estimate this variation: 21315]
+;
+C[black/white win probability for this variation: 46.49%/53.51%
+Number of playouts used to estimate this variation: 21315]
+W[pr];B[qm]
+C[black/white win probability for this variation: 46.49%/53.51%
+Number of playouts used to estimate this variation: 21315]
+;
+C[black/white win probability for this variation: 46.49%/53.51%
+Number of playouts used to estimate this variation: 21315]
+W[rm];B[ql]
+C[black/white win probability for this variation: 46.49%/53.51%
+Number of playouts used to estimate this variation: 21315]
+;
+C[black/white win probability for this variation: 46.49%/53.51%
+Number of playouts used to estimate this variation: 21315]
+W[rl];B[qk]
+C[black/white win probability for this variation: 46.49%/53.51%
+Number of playouts used to estimate this variation: 21315]
+;
+C[black/white win probability for this variation: 46.49%/53.51%
+Number of playouts used to estimate this variation: 21315]
+W[jd];B[cf]
+C[black/white win probability for this variation: 46.49%/53.51%
+Number of playouts used to estimate this variation: 21315]
+;
+C[black/white win probability for this variation: 46.49%/53.51%
+Number of playouts used to estimate this variation: 21315]
+W[cd];B[dj]
+C[black/white win probability for this variation: 46.49%/53.51%
+Number of playouts used to estimate this variation: 21315]
+;
+C[black/white win probability for this variation: 46.49%/53.51%
+Number of playouts used to estimate this variation: 21315]
+W[cl];B[ef]
+C[black/white win probability for this variation: 46.49%/53.51%
+Number of playouts used to estimate this variation: 21315]
+;
+C[black/white win probability for this variation: 46.49%/53.51%
+Number of playouts used to estimate this variation: 21315]
+W[dh])(;B[qp]
+C[black/white win probability for this variation: 45.68%/54.32%
+Number of playouts used to estimate this variation: 7867]
+;
+C[black/white win probability for this variation: 45.68%/54.32%
+Number of playouts used to estimate this variation: 7867]
+W[pp];B[qq]
+C[black/white win probability for this variation: 45.68%/54.32%
+Number of playouts used to estimate this variation: 7867]
+;
+C[black/white win probability for this variation: 45.68%/54.32%
+Number of playouts used to estimate this variation: 7867]
+W[qr];B[rr]
+C[black/white win probability for this variation: 45.68%/54.32%
+Number of playouts used to estimate this variation: 7867]
+;
+C[black/white win probability for this variation: 45.68%/54.32%
+Number of playouts used to estimate this variation: 7867]
+W[pr];B[qm]
+C[black/white win probability for this variation: 45.68%/54.32%
+Number of playouts used to estimate this variation: 7867]
+;
+C[black/white win probability for this variation: 45.68%/54.32%
+Number of playouts used to estimate this variation: 7867]
+W[ro];B[rq]
+C[black/white win probability for this variation: 45.68%/54.32%
+Number of playouts used to estimate this variation: 7867]
+;
+C[black/white win probability for this variation: 45.68%/54.32%
+Number of playouts used to estimate this variation: 7867]
+W[rm];B[ql]
+C[black/white win probability for this variation: 45.68%/54.32%
+Number of playouts used to estimate this variation: 7867]
+;
+C[black/white win probability for this variation: 45.68%/54.32%
+Number of playouts used to estimate this variation: 7867]
+W[rl];B[qk]
+C[black/white win probability for this variation: 45.68%/54.32%
+Number of playouts used to estimate this variation: 7867]
+;
+C[black/white win probability for this variation: 45.68%/54.32%
+Number of playouts used to estimate this variation: 7867]
+W[rk];B[qj]
+C[black/white win probability for this variation: 45.68%/54.32%
+Number of playouts used to estimate this variation: 7867]
+))(;
+C[black/white win probability for this variation: 47.84%/52.16%
+Number of playouts used to estimate this variation: 125383]
+W[qn];B[qm]
+C[black/white win probability for this variation: 47.84%/52.16%
+Number of playouts used to estimate this variation: 125383]
+;
+C[black/white win probability for this variation: 47.84%/52.16%
+Number of playouts used to estimate this variation: 125383]
+W[pp];B[pm]
+C[black/white win probability for this variation: 47.84%/52.16%
+Number of playouts used to estimate this variation: 125383]
+;
+C[black/white win probability for this variation: 47.84%/52.16%
+Number of playouts used to estimate this variation: 125383]
+W[jd];B[de]
+C[black/white win probability for this variation: 47.84%/52.16%
+Number of playouts used to estimate this variation: 125383]
+;
+C[black/white win probability for this variation: 47.84%/52.16%
+Number of playouts used to estimate this variation: 125383]
+W[dh];B[gd]
+C[black/white win probability for this variation: 47.84%/52.16%
+Number of playouts used to estimate this variation: 125383]
+;
+C[black/white win probability for this variation: 47.84%/52.16%
+Number of playouts used to estimate this variation: 125383]
+W[ee];B[ef]
+C[black/white win probability for this variation: 47.84%/52.16%
+Number of playouts used to estimate this variation: 125383]
+;
+C[black/white win probability for this variation: 47.84%/52.16%
+Number of playouts used to estimate this variation: 125383]
+W[fe];B[dd]
+C[black/white win probability for this variation: 47.84%/52.16%
+Number of playouts used to estimate this variation: 125383]
+;
+C[black/white win probability for this variation: 47.84%/52.16%
+Number of playouts used to estimate this variation: 125383]
+W[ec];B[cc]
+C[black/white win probability for this variation: 47.84%/52.16%
+Number of playouts used to estimate this variation: 125383]
+;
+C[black/white win probability for this variation: 47.84%/52.16%
+Number of playouts used to estimate this variation: 125383]
+W[fc];B[cf]
+C[black/white win probability for this variation: 47.84%/52.16%
+Number of playouts used to estimate this variation: 125383]
+;
+C[black/white win probability for this variation: 47.84%/52.16%
+Number of playouts used to estimate this variation: 125383]
+W[cb];B[bc]
+C[black/white win probability for this variation: 47.84%/52.16%
+Number of playouts used to estimate this variation: 125383]
+;
+C[black/white win probability for this variation: 47.84%/52.16%
+Number of playouts used to estimate this variation: 125383]
+W[bb])(;
+C[black/white win probability for this variation: 48.91%/51.09%
+Number of playouts used to estimate this variation: 6683]
+W[pp];B[qn]
+C[black/white win probability for this variation: 48.91%/51.09%
+Number of playouts used to estimate this variation: 6683]
+;
+C[black/white win probability for this variation: 48.91%/51.09%
+Number of playouts used to estimate this variation: 6683]
+W[ro];B[rn]
+C[black/white win probability for this variation: 48.91%/51.09%
+Number of playouts used to estimate this variation: 6683]
+;
+C[black/white win probability for this variation: 48.91%/51.09%
+Number of playouts used to estimate this variation: 6683]
+W[nr];B[pi]
+C[black/white win probability for this variation: 48.91%/51.09%
+Number of playouts used to estimate this variation: 6683]
+;
+C[black/white win probability for this variation: 48.91%/51.09%
+Number of playouts used to estimate this variation: 6683]
+W[jd];B[de]
+C[black/white win probability for this variation: 48.91%/51.09%
+Number of playouts used to estimate this variation: 6683]
+;
+C[black/white win probability for this variation: 48.91%/51.09%
+Number of playouts used to estimate this variation: 6683]
+W[dh];B[gd]
+C[black/white win probability for this variation: 48.91%/51.09%
+Number of playouts used to estimate this variation: 6683]
+;
+C[black/white win probability for this variation: 48.91%/51.09%
+Number of playouts used to estimate this variation: 6683]
+W[fd])(;
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+W[qp];B[qn]
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+;
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+W[nr];B[de]
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+;
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+W[ce];B[dd]
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+;
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+W[cd];B[ec]
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+;
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+W[cf];B[df]
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+;
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+W[dg];B[cc]
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+;
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+W[db];B[bc]
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+;
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+W[cb];B[cg]
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+;
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+W[ch];B[bb]
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+;
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+W[eb];B[bg]
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+;
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+W[bf];B[bh]
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+;
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+W[bd];B[fc]
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+;
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+W[dh];B[ad]
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+;
+C[black/white win probability for this variation: 50.37%/49.63%
+Number of playouts used to estimate this variation: 4166]
+W[ae]))(;B[pp]
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+;
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+W[qp];B[qq]
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+;
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+W[qr];B[rq]
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+;
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+W[rr];B[oq]
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+;
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+W[pr];B[qn]
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+;
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+W[rp];B[ro]
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+;
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+W[sq];B[pm]
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+;
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+W[on];B[pn]
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+;
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+W[qe];B[pe]
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+;
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+W[qf];B[rd]
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+;
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+W[pf];B[oe]
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+;
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+W[pi];B[de]
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+;
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+W[ce];B[cf]
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+;
+C[black/white win probability for this variation: 50.9%/49.1%
+Number of playouts used to estimate this variation: 68824]
+W[cd])(;B[qn]
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+;
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+W[qp];B[pn]
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+;
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+W[nr];B[de]
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+;
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+W[ce];B[dd]
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+;
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+W[cd];B[ec]
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+;
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+W[cf];B[df]
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+;
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+W[dg];B[cc]
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+;
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+W[db];B[bc]
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+;
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+W[eb];B[cg]
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+;
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+W[eg];B[fd]
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+;
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+W[fc];B[ed]
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+;
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+W[gd];B[gc]
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+;
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+W[fb];B[bd]
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+;
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+W[ch];B[bg]
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+;
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+W[hc];B[ge]
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+;
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+W[hd];B[cn]
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+;
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+W[co];B[bo]
+C[black/white win probability for this variation: 50.45%/49.55%
+Number of playouts used to estimate this variation: 103654]
+)(;B[qp]
+C[black/white win probability for this variation: 48.37%/51.63%
+Number of playouts used to estimate this variation: 3365]
+;
+C[black/white win probability for this variation: 48.37%/51.63%
+Number of playouts used to estimate this variation: 3365]
+W[pp];B[qq]
+C[black/white win probability for this variation: 48.37%/51.63%
+Number of playouts used to estimate this variation: 3365]
+;
+C[black/white win probability for this variation: 48.37%/51.63%
+Number of playouts used to estimate this variation: 3365]
+W[qr];B[rr]
+C[black/white win probability for this variation: 48.37%/51.63%
+Number of playouts used to estimate this variation: 3365]
+;
+C[black/white win probability for this variation: 48.37%/51.63%
+Number of playouts used to estimate this variation: 3365]
+W[pr];B[ro]
+C[black/white win probability for this variation: 48.37%/51.63%
+Number of playouts used to estimate this variation: 3365]
+;
+C[black/white win probability for this variation: 48.37%/51.63%
+Number of playouts used to estimate this variation: 3365]
+W[qn];B[rn]
+C[black/white win probability for this variation: 48.37%/51.63%
+Number of playouts used to estimate this variation: 3365]
+;
+C[black/white win probability for this variation: 48.37%/51.63%
+Number of playouts used to estimate this variation: 3365]
+W[qm];B[oo]
+C[black/white win probability for this variation: 48.37%/51.63%
+Number of playouts used to estimate this variation: 3365]
+;
+C[black/white win probability for this variation: 48.37%/51.63%
+Number of playouts used to estimate this variation: 3365]
+W[rs];B[rq]
+C[black/white win probability for this variation: 48.37%/51.63%
+Number of playouts used to estimate this variation: 3365]
+;
+C[black/white win probability for this variation: 48.37%/51.63%
+Number of playouts used to estimate this variation: 3365]
+W[mq];B[nq]
+C[black/white win probability for this variation: 48.37%/51.63%
+Number of playouts used to estimate this variation: 3365]
+;
+C[black/white win probability for this variation: 48.37%/51.63%
+Number of playouts used to estimate this variation: 3365]
+W[nr];B[mp]
+C[black/white win probability for this variation: 48.37%/51.63%
+Number of playouts used to estimate this variation: 3365]
+)(;B[pn]
+C[black/white win probability for this variation: 39.09%/60.91%
+Number of playouts used to estimate this variation: 52]
+;
+C[black/white win probability for this variation: 39.09%/60.91%
+Number of playouts used to estimate this variation: 52]
+W[qn]))(;
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+W[nq];B[mq]
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+;
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+W[mp];B[oq]
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+;
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+W[nr];B[no]
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+;
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+W[or];B[lp]
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+;
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+W[qj];B[mo]
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+;
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+W[qg];B[de]
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+;
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+W[ce];B[cf]
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+;
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+W[cd];B[dg]
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+;
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+W[fc];B[cn]
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+;
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+W[fq];B[bp]
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+;
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+W[cq];B[dl]
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+;
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+W[cj];B[ej]
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+;
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+W[ch];B[bg]
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+;
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+W[ei];B[di]
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+;
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+W[dh];B[eh]
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+;
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+W[fi];B[fh]
+C[black/white win probability for this variation: 48.63%/51.37%
+Number of playouts used to estimate this variation: 251945]
+)(;
+C[black/white win probability for this variation: 50.09%/49.91%
+Number of playouts used to estimate this variation: 31375]
+W[qo];B[qn]
+C[black/white win probability for this variation: 50.09%/49.91%
+Number of playouts used to estimate this variation: 31375]
+;
+C[black/white win probability for this variation: 50.09%/49.91%
+Number of playouts used to estimate this variation: 31375]
+W[qp];B[pm]
+C[black/white win probability for this variation: 50.09%/49.91%
+Number of playouts used to estimate this variation: 31375]
+;
+C[black/white win probability for this variation: 50.09%/49.91%
+Number of playouts used to estimate this variation: 31375]
+W[nq];B[mq]
+C[black/white win probability for this variation: 50.09%/49.91%
+Number of playouts used to estimate this variation: 31375]
+;
+C[black/white win probability for this variation: 50.09%/49.91%
+Number of playouts used to estimate this variation: 31375]
+W[mp];B[oq]
+C[black/white win probability for this variation: 50.09%/49.91%
+Number of playouts used to estimate this variation: 31375]
+;
+C[black/white win probability for this variation: 50.09%/49.91%
+Number of playouts used to estimate this variation: 31375]
+W[nr];B[no]
+C[black/white win probability for this variation: 50.09%/49.91%
+Number of playouts used to estimate this variation: 31375]
+;
+C[black/white win probability for this variation: 50.09%/49.91%
+Number of playouts used to estimate this variation: 31375]
+W[or];B[lp]
+C[black/white win probability for this variation: 50.09%/49.91%
+Number of playouts used to estimate this variation: 31375]
+;
+C[black/white win probability for this variation: 50.09%/49.91%
+Number of playouts used to estimate this variation: 31375]
+W[jd];B[cf]
+C[black/white win probability for this variation: 50.09%/49.91%
+Number of playouts used to estimate this variation: 31375]
+;
+C[black/white win probability for this variation: 50.09%/49.91%
+Number of playouts used to estimate this variation: 31375]
+W[cd];B[ci]
+C[black/white win probability for this variation: 50.09%/49.91%
+Number of playouts used to estimate this variation: 31375]
+;
+C[black/white win probability for this variation: 50.09%/49.91%
+Number of playouts used to estimate this variation: 31375]
+W[op])(;
+C[black/white win probability for this variation: 48.1%/51.9%
+Number of playouts used to estimate this variation: 23111]
+W[qi];B[or]
+C[black/white win probability for this variation: 48.1%/51.9%
+Number of playouts used to estimate this variation: 23111]
+;
+C[black/white win probability for this variation: 48.1%/51.9%
+Number of playouts used to estimate this variation: 23111]
+W[ro];B[qp]
+C[black/white win probability for this variation: 48.1%/51.9%
+Number of playouts used to estimate this variation: 23111]
+;
+C[black/white win probability for this variation: 48.1%/51.9%
+Number of playouts used to estimate this variation: 23111]
+W[ql];B[fq]
+C[black/white win probability for this variation: 48.1%/51.9%
+Number of playouts used to estimate this variation: 23111]
+;
+C[black/white win probability for this variation: 48.1%/51.9%
+Number of playouts used to estimate this variation: 23111]
+W[cn];B[dq]
+C[black/white win probability for this variation: 48.1%/51.9%
+Number of playouts used to estimate this variation: 23111]
+)(;
+C[black/white win probability for this variation: 46.46%/53.54%
+Number of playouts used to estimate this variation: 6150]
+W[qj];B[qh]
+C[black/white win probability for this variation: 46.46%/53.54%
+Number of playouts used to estimate this variation: 6150]
+;
+C[black/white win probability for this variation: 46.46%/53.54%
+Number of playouts used to estimate this variation: 6150]
+W[qm];B[ro]
+C[black/white win probability for this variation: 46.46%/53.54%
+Number of playouts used to estimate this variation: 6150]
+;
+C[black/white win probability for this variation: 46.46%/53.54%
+Number of playouts used to estimate this variation: 6150]
+W[nr];B[lq]
+C[black/white win probability for this variation: 46.46%/53.54%
+Number of playouts used to estimate this variation: 6150]
+)(;
+C[black/white win probability for this variation: 48.43%/51.57%
+Number of playouts used to estimate this variation: 1101]
+W[oo];B[op]
+C[black/white win probability for this variation: 48.43%/51.57%
+Number of playouts used to estimate this variation: 1101]
+;
+C[black/white win probability for this variation: 48.43%/51.57%
+Number of playouts used to estimate this variation: 1101]
+W[pp];B[qo]
+C[black/white win probability for this variation: 48.43%/51.57%
+Number of playouts used to estimate this variation: 1101]
+;
+C[black/white win probability for this variation: 48.43%/51.57%
+Number of playouts used to estimate this variation: 1101]
+W[on];B[or]
+C[black/white win probability for this variation: 48.43%/51.57%
+Number of playouts used to estimate this variation: 1101]
+)(;
+C[black/white win probability for this variation: 50.59%/49.41%
+Number of playouts used to estimate this variation: 722]
+W[ce];B[or]
+C[black/white win probability for this variation: 50.59%/49.41%
+Number of playouts used to estimate this variation: 722]
+;
+C[black/white win probability for this variation: 50.59%/49.41%
+Number of playouts used to estimate this variation: 722]
+W[ro];B[qp]
+C[black/white win probability for this variation: 50.59%/49.41%
+Number of playouts used to estimate this variation: 722]
+;
+C[black/white win probability for this variation: 50.59%/49.41%
+Number of playouts used to estimate this variation: 722]
+W[qk]))(;B[np]
+C[black/white win probability for this variation: 48.74%/51.26%
+Number of playouts used to estimate this variation: 198478]
+;
+C[black/white win probability for this variation: 48.74%/51.26%
+Number of playouts used to estimate this variation: 198478]
+W[nq];B[mq]
+C[black/white win probability for this variation: 48.74%/51.26%
+Number of playouts used to estimate this variation: 198478]
+;
+C[black/white win probability for this variation: 48.74%/51.26%
+Number of playouts used to estimate this variation: 198478]
+W[mp];B[oq]
+C[black/white win probability for this variation: 48.74%/51.26%
+Number of playouts used to estimate this variation: 198478]
+;
+C[black/white win probability for this variation: 48.74%/51.26%
+Number of playouts used to estimate this variation: 198478]
+W[nr];B[no]
+C[black/white win probability for this variation: 48.74%/51.26%
+Number of playouts used to estimate this variation: 198478]
+;
+C[black/white win probability for this variation: 48.74%/51.26%
+Number of playouts used to estimate this variation: 198478]
+W[or];B[lp]
+C[black/white win probability for this variation: 48.74%/51.26%
+Number of playouts used to estimate this variation: 198478]
+;
+C[black/white win probability for this variation: 48.74%/51.26%
+Number of playouts used to estimate this variation: 198478]
+W[qi];B[mo]
+C[black/white win probability for this variation: 48.74%/51.26%
+Number of playouts used to estimate this variation: 198478]
+;
+C[black/white win probability for this variation: 48.74%/51.26%
+Number of playouts used to estimate this variation: 198478]
+W[ql];B[ce]
+C[black/white win probability for this variation: 48.74%/51.26%
+Number of playouts used to estimate this variation: 198478]
+;
+C[black/white win probability for this variation: 48.74%/51.26%
+Number of playouts used to estimate this variation: 198478]
+W[dh];B[df]
+C[black/white win probability for this variation: 48.74%/51.26%
+Number of playouts used to estimate this variation: 198478]
+;
+C[black/white win probability for this variation: 48.74%/51.26%
+Number of playouts used to estimate this variation: 198478]
+W[fd];B[bc]
+C[black/white win probability for this variation: 48.74%/51.26%
+Number of playouts used to estimate this variation: 198478]
+;
+C[black/white win probability for this variation: 48.74%/51.26%
+Number of playouts used to estimate this variation: 198478]
+W[jc];B[cn]
+C[black/white win probability for this variation: 48.74%/51.26%
+Number of playouts used to estimate this variation: 198478]
+;
+C[black/white win probability for this variation: 48.74%/51.26%
+Number of playouts used to estimate this variation: 198478]
+W[cl];B[en]
+C[black/white win probability for this variation: 48.74%/51.26%
+Number of playouts used to estimate this variation: 198478]
+;
+C[black/white win probability for this variation: 48.74%/51.26%
+Number of playouts used to estimate this variation: 198478]
+W[fq])(;B[qq]
+C[black/white win probability for this variation: 47.72%/52.28%
+Number of playouts used to estimate this variation: 19449]
+;
+C[black/white win probability for this variation: 47.72%/52.28%
+Number of playouts used to estimate this variation: 19449]
+W[qj];B[ce]
+C[black/white win probability for this variation: 47.72%/52.28%
+Number of playouts used to estimate this variation: 19449]
+;
+C[black/white win probability for this variation: 47.72%/52.28%
+Number of playouts used to estimate this variation: 19449]
+W[dh];B[df]
+C[black/white win probability for this variation: 47.72%/52.28%
+Number of playouts used to estimate this variation: 19449]
+;
+C[black/white win probability for this variation: 47.72%/52.28%
+Number of playouts used to estimate this variation: 19449]
+W[fd];B[bc]
+C[black/white win probability for this variation: 47.72%/52.28%
+Number of playouts used to estimate this variation: 19449]
+;
+C[black/white win probability for this variation: 47.72%/52.28%
+Number of playouts used to estimate this variation: 19449]
+W[hd])(;B[de]
+C[black/white win probability for this variation: 47.75%/52.25%
+Number of playouts used to estimate this variation: 3482]
+;
+C[black/white win probability for this variation: 47.75%/52.25%
+Number of playouts used to estimate this variation: 3482]
+W[ce];B[cf]
+C[black/white win probability for this variation: 47.75%/52.25%
+Number of playouts used to estimate this variation: 3482]
+;
+C[black/white win probability for this variation: 47.75%/52.25%
+Number of playouts used to estimate this variation: 3482]
+W[cd];B[qq]
+C[black/white win probability for this variation: 47.75%/52.25%
+Number of playouts used to estimate this variation: 3482]
+;
+C[black/white win probability for this variation: 47.75%/52.25%
+Number of playouts used to estimate this variation: 3482]
+W[df];B[cg]
+C[black/white win probability for this variation: 47.75%/52.25%
+Number of playouts used to estimate this variation: 3482]
+;
+C[black/white win probability for this variation: 47.75%/52.25%
+Number of playouts used to estimate this variation: 3482]
+W[ef])(;B[oq]
+C[black/white win probability for this variation: 46.62%/53.38%
+Number of playouts used to estimate this variation: 2727]
+;
+C[black/white win probability for this variation: 46.62%/53.38%
+Number of playouts used to estimate this variation: 2727]
+W[or];B[op]
+C[black/white win probability for this variation: 46.62%/53.38%
+Number of playouts used to estimate this variation: 2727]
+;
+C[black/white win probability for this variation: 46.62%/53.38%
+Number of playouts used to estimate this variation: 2727]
+W[nq];B[nr]
+C[black/white win probability for this variation: 46.62%/53.38%
+Number of playouts used to estimate this variation: 2727]
+;
+C[black/white win probability for this variation: 46.62%/53.38%
+Number of playouts used to estimate this variation: 2727]
+W[mr];B[pr]
+C[black/white win probability for this variation: 46.62%/53.38%
+Number of playouts used to estimate this variation: 2727]
+;
+C[black/white win probability for this variation: 46.62%/53.38%
+Number of playouts used to estimate this variation: 2727]
+W[ns];B[qq]
+C[black/white win probability for this variation: 46.62%/53.38%
+Number of playouts used to estimate this variation: 2727]
+;
+C[black/white win probability for this variation: 46.62%/53.38%
+Number of playouts used to estimate this variation: 2727]
+W[np];B[no]
+C[black/white win probability for this variation: 46.62%/53.38%
+Number of playouts used to estimate this variation: 2727]
+;
+C[black/white win probability for this variation: 46.62%/53.38%
+Number of playouts used to estimate this variation: 2727]
+W[mo];B[nn]
+C[black/white win probability for this variation: 46.62%/53.38%
+Number of playouts used to estimate this variation: 2727]
+;
+C[black/white win probability for this variation: 46.62%/53.38%
+Number of playouts used to estimate this variation: 2727]
+W[mn];B[mm]
+C[black/white win probability for this variation: 46.62%/53.38%
+Number of playouts used to estimate this variation: 2727]
+;
+C[black/white win probability for this variation: 46.62%/53.38%
+Number of playouts used to estimate this variation: 2727]
+W[nm])(;B[ce]
+C[black/white win probability for this variation: 48.5%/51.5%
+Number of playouts used to estimate this variation: 2610]
+;
+C[black/white win probability for this variation: 48.5%/51.5%
+Number of playouts used to estimate this variation: 2610]
+W[qm];B[qq]
+C[black/white win probability for this variation: 48.5%/51.5%
+Number of playouts used to estimate this variation: 2610]
+;
+C[black/white win probability for this variation: 48.5%/51.5%
+Number of playouts used to estimate this variation: 2610]
+W[qp];B[pp]
+C[black/white win probability for this variation: 48.5%/51.5%
+Number of playouts used to estimate this variation: 2610]
+;
+C[black/white win probability for this variation: 48.5%/51.5%
+Number of playouts used to estimate this variation: 2610]
+W[qo];B[oq]
+C[black/white win probability for this variation: 48.5%/51.5%
+Number of playouts used to estimate this variation: 2610]
+;
+C[black/white win probability for this variation: 48.5%/51.5%
+Number of playouts used to estimate this variation: 2610]
+W[pr])(;B[mp]
+C[black/white win probability for this variation: 48.28%/51.72%
+Number of playouts used to estimate this variation: 384]
+;
+C[black/white win probability for this variation: 48.28%/51.72%
+Number of playouts used to estimate this variation: 384]
+W[oo];B[op]
+C[black/white win probability for this variation: 48.28%/51.72%
+Number of playouts used to estimate this variation: 384]
+))(;
+C[black/white win probability for this variation: 48.27%/51.73%
+Number of playouts used to estimate this variation: 104695]
+W[pq];B[np]
+C[black/white win probability for this variation: 48.27%/51.73%
+Number of playouts used to estimate this variation: 104695]
+;
+C[black/white win probability for this variation: 48.27%/51.73%
+Number of playouts used to estimate this variation: 104695]
+W[nq];B[mq]
+C[black/white win probability for this variation: 48.27%/51.73%
+Number of playouts used to estimate this variation: 104695]
+;
+C[black/white win probability for this variation: 48.27%/51.73%
+Number of playouts used to estimate this variation: 104695]
+W[mp];B[oq]
+C[black/white win probability for this variation: 48.27%/51.73%
+Number of playouts used to estimate this variation: 104695]
+;
+C[black/white win probability for this variation: 48.27%/51.73%
+Number of playouts used to estimate this variation: 104695]
+W[nr];B[no]
+C[black/white win probability for this variation: 48.27%/51.73%
+Number of playouts used to estimate this variation: 104695]
+;
+C[black/white win probability for this variation: 48.27%/51.73%
+Number of playouts used to estimate this variation: 104695]
+W[or];B[lp]
+C[black/white win probability for this variation: 48.27%/51.73%
+Number of playouts used to estimate this variation: 104695]
+;
+C[black/white win probability for this variation: 48.27%/51.73%
+Number of playouts used to estimate this variation: 104695]
+W[qj];B[mo]
+C[black/white win probability for this variation: 48.27%/51.73%
+Number of playouts used to estimate this variation: 104695]
+;
+C[black/white win probability for this variation: 48.27%/51.73%
+Number of playouts used to estimate this variation: 104695]
+W[qg];B[ce]
+C[black/white win probability for this variation: 48.27%/51.73%
+Number of playouts used to estimate this variation: 104695]
+;
+C[black/white win probability for this variation: 48.27%/51.73%
+Number of playouts used to estimate this variation: 104695]
+W[ci];B[cn]
+C[black/white win probability for this variation: 48.27%/51.73%
+Number of playouts used to estimate this variation: 104695]
+;
+C[black/white win probability for this variation: 48.27%/51.73%
+Number of playouts used to estimate this variation: 104695]
+W[cl];B[dm]
+C[black/white win probability for this variation: 48.27%/51.73%
+Number of playouts used to estimate this variation: 104695]
+)(;
+C[black/white win probability for this variation: 47.1%/52.9%
+Number of playouts used to estimate this variation: 34131]
+W[qq];B[op]
+C[black/white win probability for this variation: 47.1%/52.9%
+Number of playouts used to estimate this variation: 34131]
+;
+C[black/white win probability for this variation: 47.1%/52.9%
+Number of playouts used to estimate this variation: 34131]
+W[ro];B[pq]
+C[black/white win probability for this variation: 47.1%/52.9%
+Number of playouts used to estimate this variation: 34131]
+;
+C[black/white win probability for this variation: 47.1%/52.9%
+Number of playouts used to estimate this variation: 34131]
+W[qr];B[qn]
+C[black/white win probability for this variation: 47.1%/52.9%
+Number of playouts used to estimate this variation: 34131]
+;
+C[black/white win probability for this variation: 47.1%/52.9%
+Number of playouts used to estimate this variation: 34131]
+W[rn];B[ql]
+C[black/white win probability for this variation: 47.1%/52.9%
+Number of playouts used to estimate this variation: 34131]
+;
+C[black/white win probability for this variation: 47.1%/52.9%
+Number of playouts used to estimate this variation: 34131]
+W[ce];B[jd]
+C[black/white win probability for this variation: 47.1%/52.9%
+Number of playouts used to estimate this variation: 34131]
+;
+C[black/white win probability for this variation: 47.1%/52.9%
+Number of playouts used to estimate this variation: 34131]
+W[jp])(;
+C[black/white win probability for this variation: 48.68%/51.32%
+Number of playouts used to estimate this variation: 10398]
+W[qj];B[de]
+C[black/white win probability for this variation: 48.68%/51.32%
+Number of playouts used to estimate this variation: 10398]
+;
+C[black/white win probability for this variation: 48.68%/51.32%
+Number of playouts used to estimate this variation: 10398]
+W[ce];B[dd]
+C[black/white win probability for this variation: 48.68%/51.32%
+Number of playouts used to estimate this variation: 10398]
+;
+C[black/white win probability for this variation: 48.68%/51.32%
+Number of playouts used to estimate this variation: 10398]
+W[cd];B[ec]
+C[black/white win probability for this variation: 48.68%/51.32%
+Number of playouts used to estimate this variation: 10398]
+;
+C[black/white win probability for this variation: 48.68%/51.32%
+Number of playouts used to estimate this variation: 10398]
+W[cf];B[db]
+C[black/white win probability for this variation: 48.68%/51.32%
+Number of playouts used to estimate this variation: 10398]
+;
+C[black/white win probability for this variation: 48.68%/51.32%
+Number of playouts used to estimate this variation: 10398]
+W[cc];B[fd]
+C[black/white win probability for this variation: 48.68%/51.32%
+Number of playouts used to estimate this variation: 10398]
+;
+C[black/white win probability for this variation: 48.68%/51.32%
+Number of playouts used to estimate this variation: 10398]
+W[cb])(;
+C[black/white win probability for this variation: 48.71%/51.29%
+Number of playouts used to estimate this variation: 3068]
+W[ce];B[qj]
+C[black/white win probability for this variation: 48.71%/51.29%
+Number of playouts used to estimate this variation: 3068]
+;
+C[black/white win probability for this variation: 48.71%/51.29%
+Number of playouts used to estimate this variation: 3068]
+W[pq];B[np]
+C[black/white win probability for this variation: 48.71%/51.29%
+Number of playouts used to estimate this variation: 3068]
+;
+C[black/white win probability for this variation: 48.71%/51.29%
+Number of playouts used to estimate this variation: 3068]
+W[nq])(;
+C[black/white win probability for this variation: 49.52%/50.48%
+Number of playouts used to estimate this variation: 1666]
+W[ci];B[fq]
+C[black/white win probability for this variation: 49.52%/50.48%
+Number of playouts used to estimate this variation: 1666]
+;
+C[black/white win probability for this variation: 49.52%/50.48%
+Number of playouts used to estimate this variation: 1666]
+W[dn];B[dr]
+C[black/white win probability for this variation: 49.52%/50.48%
+Number of playouts used to estimate this variation: 1666]
+;
+C[black/white win probability for this variation: 49.52%/50.48%
+Number of playouts used to estimate this variation: 1666]
+W[cq];B[cr]
+C[black/white win probability for this variation: 49.52%/50.48%
+Number of playouts used to estimate this variation: 1666]
+)(;
+C[black/white win probability for this variation: 49.92%/50.08%
+Number of playouts used to estimate this variation: 839]
+W[qi];B[qk]
+C[black/white win probability for this variation: 49.92%/50.08%
+Number of playouts used to estimate this variation: 839]
+;
+C[black/white win probability for this variation: 49.92%/50.08%
+Number of playouts used to estimate this variation: 839]
+W[qf];B[pq]
+C[black/white win probability for this variation: 49.92%/50.08%
+Number of playouts used to estimate this variation: 839]
+;
+C[black/white win probability for this variation: 49.92%/50.08%
+Number of playouts used to estimate this variation: 839]
+W[op]))(;B[ce]
+C[black/white win probability for this variation: 50.87%/49.13%
+Number of playouts used to estimate this variation: 50220]
+;
+C[black/white win probability for this variation: 50.87%/49.13%
+Number of playouts used to estimate this variation: 50220]
+W[oc];B[ld]
+C[black/white win probability for this variation: 50.87%/49.13%
+Number of playouts used to estimate this variation: 50220]
+;
+C[black/white win probability for this variation: 50.87%/49.13%
+Number of playouts used to estimate this variation: 50220]
+W[of];B[qg]
+C[black/white win probability for this variation: 50.87%/49.13%
+Number of playouts used to estimate this variation: 50220]
+;
+C[black/white win probability for this variation: 50.87%/49.13%
+Number of playouts used to estimate this variation: 50220]
+W[ph];B[pg]
+C[black/white win probability for this variation: 50.87%/49.13%
+Number of playouts used to estimate this variation: 50220]
+;
+C[black/white win probability for this variation: 50.87%/49.13%
+Number of playouts used to estimate this variation: 50220]
+W[og];B[oh]
+C[black/white win probability for this variation: 50.87%/49.13%
+Number of playouts used to estimate this variation: 50220]
+;
+C[black/white win probability for this variation: 50.87%/49.13%
+Number of playouts used to estimate this variation: 50220]
+W[qh];B[rh]
+C[black/white win probability for this variation: 50.87%/49.13%
+Number of playouts used to estimate this variation: 50220]
+;
+C[black/white win probability for this variation: 50.87%/49.13%
+Number of playouts used to estimate this variation: 50220]
+W[ri];B[rg]
+C[black/white win probability for this variation: 50.87%/49.13%
+Number of playouts used to estimate this variation: 50220]
+;
+C[black/white win probability for this variation: 50.87%/49.13%
+Number of playouts used to estimate this variation: 50220]
+W[pj];B[nh]
+C[black/white win probability for this variation: 50.87%/49.13%
+Number of playouts used to estimate this variation: 50220]
+;
+C[black/white win probability for this variation: 50.87%/49.13%
+Number of playouts used to estimate this variation: 50220]
+W[mf];B[lh]
+C[black/white win probability for this variation: 50.87%/49.13%
+Number of playouts used to estimate this variation: 50220]
+)(;B[de]
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+;
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+W[ce];B[dd]
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+;
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+W[cd];B[ec]
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+;
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+W[cf];B[df]
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+;
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+W[dg];B[cc]
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+;
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+W[db];B[bc]
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+;
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+W[eb];B[cg]
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+;
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+W[eg];B[fd]
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+;
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+W[fc];B[ed]
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+;
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+W[gd];B[bd]
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+;
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+W[ch];B[bg]
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+;
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+W[gc];B[nc]
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+;
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+W[pq];B[np]
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+;
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+W[qo];B[qn]
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+;
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+W[qp];B[pn]
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+;
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+W[qi];B[pk]
+C[black/white win probability for this variation: 50.86%/49.14%
+Number of playouts used to estimate this variation: 92802]
+)(;B[oc]
+C[black/white win probability for this variation: 48.2%/51.8%
+Number of playouts used to estimate this variation: 2698]
+;
+C[black/white win probability for this variation: 48.2%/51.8%
+Number of playouts used to estimate this variation: 2698]
+W[pq];B[np]
+C[black/white win probability for this variation: 48.2%/51.8%
+Number of playouts used to estimate this variation: 2698]
+;
+C[black/white win probability for this variation: 48.2%/51.8%
+Number of playouts used to estimate this variation: 2698]
+W[nq];B[mp]
+C[black/white win probability for this variation: 48.2%/51.8%
+Number of playouts used to estimate this variation: 2698]
+;
+C[black/white win probability for this variation: 48.2%/51.8%
+Number of playouts used to estimate this variation: 2698]
+W[mq];B[lp]
+C[black/white win probability for this variation: 48.2%/51.8%
+Number of playouts used to estimate this variation: 2698]
+;
+C[black/white win probability for this variation: 48.2%/51.8%
+Number of playouts used to estimate this variation: 2698]
+W[kq])(;B[nc]
+C[black/white win probability for this variation: 50.23%/49.77%
+Number of playouts used to estimate this variation: 2468]
+;
+C[black/white win probability for this variation: 50.23%/49.77%
+Number of playouts used to estimate this variation: 2468]
+W[qj];B[pq]
+C[black/white win probability for this variation: 50.23%/49.77%
+Number of playouts used to estimate this variation: 2468]
+;
+C[black/white win probability for this variation: 50.23%/49.77%
+Number of playouts used to estimate this variation: 2468]
+W[qm];B[pm]
+C[black/white win probability for this variation: 50.23%/49.77%
+Number of playouts used to estimate this variation: 2468]
+)(;B[pq]
+C[black/white win probability for this variation: 48.83%/51.17%
+Number of playouts used to estimate this variation: 2039]
+;
+C[black/white win probability for this variation: 48.83%/51.17%
+Number of playouts used to estimate this variation: 2039]
+W[oc];B[de]
+C[black/white win probability for this variation: 48.83%/51.17%
+Number of playouts used to estimate this variation: 2039]
+;
+C[black/white win probability for this variation: 48.83%/51.17%
+Number of playouts used to estimate this variation: 2039]
+W[ce];B[cf]
+C[black/white win probability for this variation: 48.83%/51.17%
+Number of playouts used to estimate this variation: 2039]
+;
+C[black/white win probability for this variation: 48.83%/51.17%
+Number of playouts used to estimate this variation: 2039]
+W[cd];B[df]
+C[black/white win probability for this variation: 48.83%/51.17%
+Number of playouts used to estimate this variation: 2039]
+;
+C[black/white win probability for this variation: 48.83%/51.17%
+Number of playouts used to estimate this variation: 2039]
+W[fc])(;B[od]
+C[black/white win probability for this variation: 49.06%/50.94%
+Number of playouts used to estimate this variation: 1821]
+;
+C[black/white win probability for this variation: 49.06%/50.94%
+Number of playouts used to estimate this variation: 1821]
+W[pq];B[np]
+C[black/white win probability for this variation: 49.06%/50.94%
+Number of playouts used to estimate this variation: 1821]
+;
+C[black/white win probability for this variation: 49.06%/50.94%
+Number of playouts used to estimate this variation: 1821]
+W[nq];B[mp]
+C[black/white win probability for this variation: 49.06%/50.94%
+Number of playouts used to estimate this variation: 1821]
+;
+C[black/white win probability for this variation: 49.06%/50.94%
+Number of playouts used to estimate this variation: 1821]
+W[qo];B[qn]
+C[black/white win probability for this variation: 49.06%/50.94%
+Number of playouts used to estimate this variation: 1821]
+))(;W[dd];B[fc];W[cf];B[lc];W[qj];B[ql];W[qf];B[qh];W[rh];B[rg];W[qg];B[ri];
+W[ph];B[qi];W[pi];B[rj];W[rf];B[od]))(;B[pq];W[dc];B[de];W[od];B[oe];W[ne];
+B[pe];W[nd];B[pc];W[ng];B[fd];W[ph];B[eb];W[qo];B[op];W[pm];B[cn];W[fq];B[kq];
+W[be];B[cd];W[cc]))(;W[dc];B[pp];W[dp];B[ce];W[cj];B[oc];W[qj];B[ch];W[cd];
+B[de];W[fc];B[cn];W[fq];B[bp];W[cq];B[cl];W[ej];B[eh];W[dm];B[dl];W[el];B[em];
+W[dn];B[ek];W[fl];B[fk];W[cm];B[bm];W[bn];B[bl];W[co];B[gl];W[fm];B[gm];W[fn]))
+(;B[dd];W[cp];B[qd];W[pq];B[qo];W[od];B[oe];W[qc];B[pd];W[pc];B[ne];W[nc];B[ld]
+;W[qk];B[mc];W[qp];B[po];W[np];B[ol];W[qh];B[lq];W[mq];B[lp];W[nn];B[ql];W[rl])
+)

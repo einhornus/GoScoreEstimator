@@ -1,0 +1,12 @@
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\DataCreator\bin\Debug\DataCreator.exe.config
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\DataCreator\bin\Debug\DataCreator.exe
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\DataCreator\bin\Debug\DataCreator.pdb
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\DataCreator\obj\Debug\DataCreator.csprojResolveAssemblyReference.cache
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\DataCreator\obj\Debug\DataCreator.exe
+C:\Users\lukianov\Documents\Visual Studio 2017\Projects\Territory\DataCreator\obj\Debug\DataCreator.pdb
+C:\Users\Einhorn\Downloads\Territory\Territory\DataCreator\bin\Debug\DataCreator.exe.config
+C:\Users\Einhorn\Downloads\Territory\Territory\DataCreator\bin\Debug\DataCreator.exe
+C:\Users\Einhorn\Downloads\Territory\Territory\DataCreator\bin\Debug\DataCreator.pdb
+C:\Users\Einhorn\Downloads\Territory\Territory\DataCreator\obj\Debug\DataCreator.csprojResolveAssemblyReference.cache
+C:\Users\Einhorn\Downloads\Territory\Territory\DataCreator\obj\Debug\DataCreator.exe
+C:\Users\Einhorn\Downloads\Territory\Territory\DataCreator\obj\Debug\DataCreator.pdb
